@@ -1,0 +1,276 @@
+{
+  "FINANCE": {
+    "data": [
+      {
+        "id": 205,
+        "sector": "FINANCE",
+        "symbol": "GMFIL",
+        "realtive_value": "{\"symbol\":\"GMFIL\",\"PE_ratio\":\"-205.15282323288\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"2.6410644733269\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"82.002105562669\",\"price_to_sales\":\"3.6868334496163\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":-0.0048744150055631255,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":72.84878503606095}",
+        "general": "{\"symbol\":\"GMFIL\",\"LTP\":\"369.9\",\"market_cap\":3744039024,\"paid_up\":1012176000,\"total_float\":48,\"size\":\"Mid-cap\",\"asset_per_share\":977.1937884320513,\"book_value_per_share\":\"140.05716397148\",\"earning_per_share\":\"-1.8030461105578\",\"sales_per_share\":\"100.33\",\"cash_flow_per_share\":\"82.002105562669\",\"expected_DPS\":-6.569509650495566,\"reserve_surplus\":405450000,\"5_Yr_Avg._Dividend\":8.10526,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":1.32465986303517,\"payout_ratio\":0,\"52_week_high_low\":\"279-421\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"GMFIL\",\"alpha\":\"0.19395594877052\",\"sharpe_ratio\":\"0.49375068627376\",\"correlation_1_year\":\"0.6973873007898\",\"correlation_3_year\":\"-\",\"RSI_14\":\"57.919208745096\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.78510638297872\",\"MFI_14\":\"41.881840616907\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.6401408450704223,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":23.348017621145,\"r_volume\":97.36704981793595}",
+        "risk": "{\"symbol\":\"GMFIL\",\"three_month_beta\":\"1.063840283148\",\"one_year_beta\":\"1.3574043428325\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"5.9771067807072\",\"EPS_trend\":\"-2.525272284662\",\"ROE_trend\":\"-0.01891006683741\",\"altman_z_score\":\"2.1840362457714\",\"current_ratio\":\"1.1302852812823\",\"equity_ratio\":0.1433258844146061}",
+        "health": "{\"symbol\":\"GMFIL\",\"piotroski_f_score\":\"4\",\"g_score\":\"4\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"GMFIL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"GMFIL\",\"TotalAssets\":\"9890921\",\"DepositsFromCustomers\":\"7864976\",\"LoansAndAdvancesToCustomers\":\"5223556\",\"NetProfit\":\"-67030\",\"InterestIncome\":\"479830\"}",
+        "profitability": "{\"symbol\":\"GMFIL\",\"gross_profit_margin\":\"30.694071992437\",\"operating_margin\":13.15,\"pretax_profit_margin\":\"13.148145881415\",\"net_margin\":\"7.5160093488748\",\"net_margin_(quarterly)(TTM)\":\"-1.7971156289822\",\"ROE\":-1.32,\"ROA\":-0.19,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.10820537660593152}",
+        "lock_in_period": "{\"symbol\":\"GMFIL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "GMFIL",
+          "full_name": "Guheshowori Merchant Bank & Finance Co. Ltd."
+        }
+      },
+      {
+        "id": 206,
+        "sector": "FINANCE",
+        "symbol": "GFCL",
+        "realtive_value": "{\"symbol\":\"GFCL\",\"PE_ratio\":\"66.36139997533\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"2.6965977099112\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"86.880741478416\",\"price_to_sales\":\"2.8570559610706\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.01506900096097658,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":30.992051065748225}",
+        "general": "{\"symbol\":\"GFCL\",\"LTP\":\"469.7\",\"market_cap\":4443903094.4,\"paid_up\":946115200,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1535.8550301274095,\"book_value_per_share\":\"174.18245156615\",\"earning_per_share\":\"7.0779097513707\",\"sales_per_share\":\"164.40\",\"cash_flow_per_share\":\"86.880741478416\",\"expected_DPS\":-27.39134800920649,\"reserve_surplus\":701851455,\"5_Yr_Avg._Dividend\":10.197199999999999,\"mutual_fund_holding\":\"1.35%\",\"one_week_float_turnover\":1.67108700539483,\"payout_ratio\":0,\"52_week_high_low\":\"382-525\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"GFCL\",\"alpha\":\"0.093300764980271\",\"sharpe_ratio\":\"0.27553375472163\",\"correlation_1_year\":\"0.69689512063934\",\"correlation_3_year\":\"0.61578810295862\",\"RSI_14\":\"63.659616844155\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.93542435424354\",\"MFI_14\":\"65.608847151772\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.6132867132867132,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":50.220264317181,\"r_volume\":73.96238280356734}",
+        "risk": "{\"symbol\":\"GFCL\",\"three_month_beta\":\"1.0533739474028\",\"one_year_beta\":\"1.2838323885472\",\"three_year_beta\":\"1.3651827811908\",\"debt_to_common_equity\":\"7.81750725356\",\"EPS_trend\":\"-2.7355154002388\",\"ROE_trend\":\"-0.015087645024349\",\"altman_z_score\":\"2.1314069576902\",\"current_ratio\":\"1.0628318361592\",\"equity_ratio\":0.11341073771427741}",
+        "health": "{\"symbol\":\"GFCL\",\"piotroski_f_score\":\"7\",\"g_score\":\"4\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"GFCL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0.0377\",\"C.TotalCapitalFund\":\"0.137\",\"Liquidity(Crr)\":\"0.2466\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.0264\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"11.56\",\"Wt.AverageInterestRateSpread\":\"0.0399\",\"TotalNo.OfEmployees\":\"124\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0.0993\"}",
+        "market_share": "{\"symbol\":\"GFCL\",\"TotalAssets\":\"14530957.89\",\"DepositsFromCustomers\":\"12059216.73\",\"LoansAndAdvancesToCustomers\":\"8515776.232\",\"NetProfit\":\"22885.218\",\"InterestIncome\":\"756632.914\"}",
+        "profitability": "{\"symbol\":\"GFCL\",\"gross_profit_margin\":\"24.500563110224\",\"operating_margin\":16.63,\"pretax_profit_margin\":\"16.625786098418\",\"net_margin\":\"11.302973095596\",\"net_margin_(quarterly)(TTM)\":\"4.3052979022936\",\"ROE\":3.48,\"ROA\":0.44,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.10182706879525762}",
+        "lock_in_period": "{\"symbol\":\"GFCL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "GFCL",
+          "full_name": "Goodwill Finance Co. Ltd."
+        }
+      },
+      {
+        "id": 207,
+        "sector": "FINANCE",
+        "symbol": "BFC",
+        "realtive_value": "{\"symbol\":\"BFC\",\"PE_ratio\":\"74.715102858891\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"2.5621110884019\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"65.062572824085\",\"price_to_sales\":\"3.3901607403799\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.013384174841981036,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":22.342023042135935}",
+        "general": "{\"symbol\":\"BFC\",\"LTP\":\"348\",\"market_cap\":2974762394.4,\"paid_up\":854816780.0000001,\"total_float\":40,\"size\":\"Mid-cap\",\"asset_per_share\":727.3480925351043,\"book_value_per_share\":\"135.82549233533\",\"earning_per_share\":\"4.6576928450094\",\"sales_per_share\":\"102.65\",\"cash_flow_per_share\":\"65.062572824085\",\"expected_DPS\":-35.895165394390126,\"reserve_surplus\":306242319.00000006,\"5_Yr_Avg._Dividend\":20,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":4.549542183764806,\"payout_ratio\":0,\"52_week_high_low\":\"284-366\",\"52_week_high_percent\":0.7804878048780488,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"BFC\",\"alpha\":\"0.24406753918969\",\"sharpe_ratio\":\"0.68213620811508\",\"correlation_1_year\":\"0.73564099050584\",\"correlation_3_year\":\"0.60583541766882\",\"RSI_14\":\"59.290899862737\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.81196581196581\",\"MFI_14\":\"59.608459954544\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7804878048780488,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":44.052863436123005,\"r_volume\":134.53169175474343}",
+        "risk": "{\"symbol\":\"BFC\",\"three_month_beta\":\"1.0776403712945\",\"one_year_beta\":\"1.2286601915073\",\"three_year_beta\":\"1.2703859155757\",\"debt_to_common_equity\":\"4.3550189994635\",\"EPS_trend\":\"-0.21508293274262\",\"ROE_trend\":\"-0.0015580363310774\",\"altman_z_score\":\"2.3865032957606\",\"current_ratio\":\"1.1188346557342\",\"equity_ratio\":0.18674070037763757}",
+        "health": "{\"symbol\":\"BFC\",\"piotroski_f_score\":\"5\",\"g_score\":\"4\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"BFC\",\"CreditToDepositRatio\":\"71.39\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.03\",\"C.TotalCapitalFund\":\"23.41\",\"Liquidity(Crr)\":\"3.47\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"12.83\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"10.95\",\"Wt.AverageInterestRateSpread\":\"4.07\",\"TotalNo.OfEmployees\":\"121\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"22.38\"}",
+        "market_share": "{\"symbol\":\"BFC\",\"TotalAssets\":\"6217493.544\",\"DepositsFromCustomers\":\"4789295.602\",\"LoansAndAdvancesToCustomers\":\"3616272.879\",\"NetProfit\":\"10847.571\",\"InterestIncome\":\"296235.86\"}",
+        "profitability": "{\"symbol\":\"BFC\",\"gross_profit_margin\":\"34.051981361001\",\"operating_margin\":32.74,\"pretax_profit_margin\":\"25.944489294051\",\"net_margin\":\"26.736689290186\",\"net_margin_(quarterly)(TTM)\":\"4.5374504091665\",\"ROE\":3.46,\"ROA\":0.68,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.1507699652912457}",
+        "lock_in_period": "{\"symbol\":\"BFC\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "BFC",
+          "full_name": "Best Finance Company Ltd."
+        }
+      },
+      {
+        "id": 208,
+        "sector": "FINANCE",
+        "symbol": "CFCL",
+        "realtive_value": "{\"symbol\":\"CFCL\",\"PE_ratio\":\"-245.58063183747\",\"EV_to_EBIT\":41.36,\"PB_ratio\":\"2.7603073537919\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"37.567485987674\",\"price_to_sales\":\"3.4838513718741\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":-0.004071982356743098,\"earning_yield(EBIT_to_EV)\":0.02417626920171658,\"PE_ratio_5_yrs\":63.86309706613119}",
+        "general": "{\"symbol\":\"CFCL\",\"LTP\":\"344.1\",\"market_cap\":3265080453.5002875,\"paid_up\":948875458.7330099,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":876.5972476626596,\"book_value_per_share\":\"124.66003089377\",\"earning_per_share\":\"-1.4011691289553\",\"sales_per_share\":\"98.77\",\"cash_flow_per_share\":\"37.567485987674\",\"expected_DPS\":-12.018279211506893,\"reserve_surplus\":233992979.99999997,\"5_Yr_Avg._Dividend\":8,\"mutual_fund_holding\":\"0.44%\",\"one_week_float_turnover\":2.067492034676164,\"payout_ratio\":0,\"52_week_high_low\":\"281.1-415\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"CFCL\",\"alpha\":\"0.080003881377361\",\"sharpe_ratio\":\"0.24231847854982\",\"correlation_1_year\":\"0.76770224919929\",\"correlation_3_year\":\"0.59676016711888\",\"RSI_14\":\"51.644320710274\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.58\",\"MFI_14\":\"43.587847294718\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.47050037341299483,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":19.823788546256,\"r_volume\":130.58112940740278}",
+        "risk": "{\"symbol\":\"CFCL\",\"three_month_beta\":\"1.3516616721167\",\"one_year_beta\":\"1.5189137135285\",\"three_year_beta\":\"1.1825847975744\",\"debt_to_common_equity\":\"6.0319030238054\",\"EPS_trend\":\"-1.4099553188849\",\"ROE_trend\":\"-0.01115068643087\",\"altman_z_score\":\"2.2774817401218\",\"current_ratio\":\"1.1210553732065\",\"equity_ratio\":0.14220901459681276}",
+        "health": "{\"symbol\":\"CFCL\",\"piotroski_f_score\":\"4\",\"g_score\":\"7\",\"magic_formula_rank\":\"7\"}",
+        "regulator_others": "{\"symbol\":\"CFCL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"5\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"12\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"CFCL\",\"TotalAssets\":\"8317816.155\",\"DepositsFromCustomers\":\"6812238.72\",\"LoansAndAdvancesToCustomers\":\"4638785.595\",\"NetProfit\":\"-47646.029\",\"InterestIncome\":\"458033.095\"}",
+        "profitability": "{\"symbol\":\"CFCL\",\"gross_profit_margin\":\"32.278288892566\",\"operating_margin\":10.84,\"pretax_profit_margin\":\"10.996036453132\",\"net_margin\":\"7.7136404009271\",\"net_margin_(quarterly)(TTM)\":\"-1.4186181319786\",\"ROE\":-1.13,\"ROA\":-0.16,\"ROIC\":\"3.1364237239371\",\"ROCE\":6.47,\"asset_turnover\":0.115611876673017}",
+        "lock_in_period": "{\"symbol\":\"CFCL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "CFCL",
+          "full_name": "Central Finance Co. Ltd."
+        }
+      },
+      {
+        "id": 209,
+        "sector": "FINANCE",
+        "symbol": "GUFL",
+        "realtive_value": "{\"symbol\":\"GUFL\",\"PE_ratio\":\"32.260595440399\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"4.8713198477067\",\"PEG_ratio\":\"1.0753531813466\",\"price_to_cash_flow\":\"81.180815922879\",\"price_to_sales\":\"18.070902394107\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.03099756797258981,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":50.84629255510116}",
+        "general": "{\"symbol\":\"GUFL\",\"LTP\":\"785\",\"market_cap\":6813751330,\"paid_up\":867993800,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1192.6548933874874,\"book_value_per_share\":\"161.14729160508\",\"earning_per_share\":\"24.333090858483\",\"sales_per_share\":\"43.44\",\"cash_flow_per_share\":\"81.180815922879\",\"expected_DPS\":-59.84454635505461,\"reserve_surplus\":530754699.99999994,\"5_Yr_Avg._Dividend\":7,\"mutual_fund_holding\":\"0.11%\",\"one_week_float_turnover\":17.18831049112967,\"payout_ratio\":0,\"52_week_high_low\":\"463.9-785\",\"52_week_high_percent\":1,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"GUFL\",\"alpha\":\"1.1741315915141\",\"sharpe_ratio\":\"1.9494058162396\",\"correlation_1_year\":\"0.64733442145004\",\"correlation_3_year\":\"0.50657701838387\",\"RSI_14\":\"76.03976327768\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.82352941176471\",\"MFI_14\":\"75.458364815824\",\"trend_info\":\"TRENDING\",\"52_wks_level\":1,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":97.797356828194,\"r_volume\":239.52167447713055}",
+        "risk": "{\"symbol\":\"GUFL\",\"three_month_beta\":\"1.0497433320348\",\"one_year_beta\":\"1.2508011032318\",\"three_year_beta\":\"1.3271761799678\",\"debt_to_common_equity\":\"6.4010235078\",\"EPS_trend\":\"2.7533294592657\",\"ROE_trend\":\"0.016347091221801\",\"altman_z_score\":\"2.3424116969353\",\"current_ratio\":\"1.0822800787239\",\"equity_ratio\":0.13511644702398465}",
+        "health": "{\"symbol\":\"GUFL\",\"piotroski_f_score\":\"7\",\"g_score\":\"2\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"GUFL\",\"CreditToDepositRatio\":\"70.41\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0.99\",\"C.TotalCapitalFund\":\"17.27\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"10.91\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"9.4\",\"Wt.AverageInterestRateSpread\":\"4.51\",\"TotalNo.OfEmployees\":\"210\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"16.28\"}",
+        "market_share": "{\"symbol\":\"GUFL\",\"TotalAssets\":\"10352170.53\",\"DepositsFromCustomers\":\"8267517.574\",\"LoansAndAdvancesToCustomers\":\"5791269.178\",\"NetProfit\":\"121605.719\",\"InterestIncome\":\"546456.182\"}",
+        "profitability": "{\"symbol\":\"GUFL\",\"gross_profit_margin\":\"32.601558313802\",\"operating_margin\":20.08,\"pretax_profit_margin\":\"20.042191711955\",\"net_margin\":\"13.766860485156\",\"net_margin_(quarterly)(TTM)\":\"56.015402528736\",\"ROE\":13.87,\"ROA\":2.12,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.037867501074738005}",
+        "lock_in_period": "{\"symbol\":\"GUFL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "GUFL",
+          "full_name": "Gurkhas Finance Ltd."
+        }
+      },
+      {
+        "id": 210,
+        "sector": "FINANCE",
+        "symbol": "JFL",
+        "realtive_value": "{\"symbol\":\"JFL\",\"PE_ratio\":\"-314.28208411588\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"4.1413423972803\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"96.676267401034\",\"price_to_sales\":\"4.8678720445063\",\"dividend_yield\":3.8961038961039,\"earning_yield(EPS_to_LTP)\":-0.003181854933962078,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":54.70479511562386}",
+        "general": "{\"symbol\":\"JFL\",\"LTP\":\"385\",\"market_cap\":2658320437.465,\"paid_up\":690472840.9,\"total_float\":49,\"size\":\"Small-cap\",\"asset_per_share\":808.669338640746,\"book_value_per_share\":\"92.965025121526\",\"earning_per_share\":\"-1.2250141495754\",\"sales_per_share\":\"79.09\",\"cash_flow_per_share\":\"96.676267401034\",\"expected_DPS\":-50.28179605840308,\"reserve_surplus\":-48574546.09999998,\"5_Yr_Avg._Dividend\":18.0219,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":1.904255543172484,\"payout_ratio\":-1224.4756523995,\"52_week_high_low\":\"322.2-432\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"JFL\",\"alpha\":\"0.10845204786489\",\"sharpe_ratio\":\"0.36321574624233\",\"correlation_1_year\":\"0.68487567462155\",\"correlation_3_year\":\"0.59800976731913\",\"RSI_14\":\"60.80886930789\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.74946466809422\",\"MFI_14\":\"51.800384787672\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.5719489981785064,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":36.563876651982,\"r_volume\":44.33923397472697}",
+        "risk": "{\"symbol\":\"JFL\",\"three_month_beta\":\"0.85635937312389\",\"one_year_beta\":\"1.1274738028592\",\"three_year_beta\":\"1.1371698814266\",\"debt_to_common_equity\":\"7.6986405711497\",\"EPS_trend\":\"-0.93974398638798\",\"ROE_trend\":\"-0.0072941246694258\",\"altman_z_score\":\"2.4625903430541\",\"current_ratio\":\"1.1190982730079\",\"equity_ratio\":0.11496049280490458}",
+        "health": "{\"symbol\":\"JFL\",\"piotroski_f_score\":\"6\",\"g_score\":\"3\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"JFL\",\"CreditToDepositRatio\":\"75.12\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.1\",\"C.TotalCapitalFund\":\"29.38\",\"Liquidity(Crr)\":\"3.21\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"4.15\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"9.61\",\"Wt.AverageInterestRateSpread\":\"4.97\",\"TotalNo.OfEmployees\":\"24\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"28.28\"}",
+        "market_share": "{\"symbol\":\"JFL\",\"TotalAssets\":\"5583642.156\",\"DepositsFromCustomers\":\"3718079.43\",\"LoansAndAdvancesToCustomers\":\"3164981.047\",\"NetProfit\":\"1986.01587\",\"InterestIncome\":\"293035.7999\"}",
+        "profitability": "{\"symbol\":\"JFL\",\"gross_profit_margin\":\"31.61762957223\",\"operating_margin\":13.46,\"pretax_profit_margin\":\"13.461852545359\",\"net_margin\":\"9.0373081773461\",\"net_margin_(quarterly)(TTM)\":\"-1.5488862682708\",\"ROE\":-1.11,\"ROA\":-0.17,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.10691657160613018}",
+        "lock_in_period": "{\"symbol\":\"JFL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "JFL",
+          "full_name": "Janaki Finance Ltd."
+        }
+      },
+      {
+        "id": 211,
+        "sector": "FINANCE",
+        "symbol": "ICFC",
+        "realtive_value": "{\"symbol\":\"ICFC\",\"PE_ratio\":\"33.306540172782\",\"EV_to_EBIT\":33.36,\"PB_ratio\":\"3.2807286483483\",\"PEG_ratio\":\"1.9393356070546\",\"price_to_cash_flow\":\"-57.700046480228\",\"price_to_sales\":\"2.3662117161484\",\"dividend_yield\":1.2884043607532,\"earning_yield(EPS_to_LTP)\":0.030024133242671953,\"earning_yield(EBIT_to_EV)\":0.029973831398332904,\"PE_ratio_5_yrs\":36.35207167562208}",
+        "general": "{\"symbol\":\"ICFC\",\"LTP\":\"504.5\",\"market_cap\":5970610993.2,\"paid_up\":1183470960,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1759.764346900409,\"book_value_per_share\":\"153.77681426167\",\"earning_per_share\":\"15.147175220928\",\"sales_per_share\":\"213.21\",\"cash_flow_per_share\":\"-57.700046480228\",\"expected_DPS\":-2.822789077984643,\"reserve_surplus\":636432981,\"5_Yr_Avg._Dividend\":11.7,\"mutual_fund_holding\":\"1.06%\",\"one_week_float_turnover\":2.7748712920144105,\"payout_ratio\":42.912291600214,\"52_week_high_low\":\"395-541.7\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"ICFC\",\"alpha\":\"0.13008082152288\",\"sharpe_ratio\":\"0.43746167928391\",\"correlation_1_year\":\"0.79395873318309\",\"correlation_3_year\":\"0.57141297647107\",\"RSI_14\":\"55.749102791527\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.70833333333333\",\"MFI_14\":\"45.737177111203\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7464212678936603,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":42.73127753304,\"r_volume\":107.86922810245261}",
+        "risk": "{\"symbol\":\"ICFC\",\"three_month_beta\":\"1.1881008510848\",\"one_year_beta\":\"1.2899537327808\",\"three_year_beta\":\"1.3578350301705\",\"debt_to_common_equity\":\"10.443625980611\",\"EPS_trend\":\"0.3791839556418\",\"ROE_trend\":\"0.001188625262699\",\"altman_z_score\":\"2.0775309588053\",\"current_ratio\":\"1.0707322641783\",\"equity_ratio\":0.0873848902169925}",
+        "health": "{\"symbol\":\"ICFC\",\"piotroski_f_score\":\"4\",\"g_score\":\"2\",\"magic_formula_rank\":\"5\"}",
+        "regulator_others": "{\"symbol\":\"ICFC\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"ICFC\",\"TotalAssets\":\"20826300.01\",\"DepositsFromCustomers\":\"18283268.94\",\"LoansAndAdvancesToCustomers\":\"13774515.58\",\"NetProfit\":\"53222.142\",\"InterestIncome\":\"1206123.389\"}",
+        "profitability": "{\"symbol\":\"ICFC\",\"gross_profit_margin\":\"24.185961422948\",\"operating_margin\":14.2,\"pretax_profit_margin\":\"14.45071653065\",\"net_margin\":\"10.544342153038\",\"net_margin_(quarterly)(TTM)\":\"7.1043455846011\",\"ROE\":9.86,\"ROA\":0.83,\"ROIC\":\"3.0028693633342\",\"ROCE\":13.5,\"asset_turnover\":0.11690092024786151}",
+        "lock_in_period": "{\"symbol\":\"ICFC\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "ICFC",
+          "full_name": "ICFC Finance Limited"
+        }
+      },
+      {
+        "id": 212,
+        "sector": "FINANCE",
+        "symbol": "MFIL",
+        "realtive_value": "{\"symbol\":\"MFIL\",\"PE_ratio\":\"27.187845317384\",\"EV_to_EBIT\":49.63,\"PB_ratio\":\"3.3965622757015\",\"PEG_ratio\":\"21.801148549163\",\"price_to_cash_flow\":\"152.1970411015\",\"price_to_sales\":\"3.1229513081828\",\"dividend_yield\":1.0038167938931,\"earning_yield(EPS_to_LTP)\":0.03678114202601336,\"earning_yield(EBIT_to_EV)\":0.02015061870506651,\"PE_ratio_5_yrs\":22.127729244728382}",
+        "general": "{\"symbol\":\"MFIL\",\"LTP\":\"524\",\"market_cap\":7082134638.879999,\"paid_up\":1351552412,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1364.9371519896338,\"book_value_per_share\":\"154.27363241611\",\"earning_per_share\":\"19.273318421631\",\"sales_per_share\":\"167.79\",\"cash_flow_per_share\":\"152.1970411015\",\"expected_DPS\":-1.898187578388932,\"reserve_surplus\":733536000,\"5_Yr_Avg._Dividend\":19.7626,\"mutual_fund_holding\":\"1.74%\",\"one_week_float_turnover\":2.02260233266077,\"payout_ratio\":27.291615719359,\"52_week_high_low\":\"413.2-571\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"MFIL\",\"alpha\":\"-0.021823773569638\",\"sharpe_ratio\":\"-0.034358375541992\",\"correlation_1_year\":\"0.74664748480329\",\"correlation_3_year\":\"0.66490396615176\",\"RSI_14\":\"55.586687015783\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.75704225352113\",\"MFI_14\":\"51.584074254906\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7021546261089987,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":21.145374449339,\"r_volume\":105.68222913433192}",
+        "risk": "{\"symbol\":\"MFIL\",\"three_month_beta\":\"0.89530892148865\",\"one_year_beta\":\"1.1029718526743\",\"three_year_beta\":\"1.3846493388315\",\"debt_to_common_equity\":\"7.8475077083041\",\"EPS_trend\":\"2.2299838121261\",\"ROE_trend\":\"0.012430823015701\",\"altman_z_score\":\"2.3454484821624\",\"current_ratio\":\"1.0991768297181\",\"equity_ratio\":0.11302618013674337}",
+        "health": "{\"symbol\":\"MFIL\",\"piotroski_f_score\":\"5\",\"g_score\":\"5\",\"magic_formula_rank\":\"3\"}",
+        "regulator_others": "{\"symbol\":\"MFIL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"MFIL\",\"TotalAssets\":\"18447841\",\"DepositsFromCustomers\":\"14457813\",\"LoansAndAdvancesToCustomers\":\"12452622\",\"NetProfit\":\"105471\",\"InterestIncome\":\"1138804\"}",
+        "profitability": "{\"symbol\":\"MFIL\",\"gross_profit_margin\":\"30.877427444799\",\"operating_margin\":10.74,\"pretax_profit_margin\":\"10.736255627128\",\"net_margin\":\"7.4577252293906\",\"net_margin_(quarterly)(TTM)\":\"11.48657156066\",\"ROE\":12.71,\"ROA\":1.5,\"ROIC\":\"2.0702878705427\",\"ROCE\":6.79,\"asset_turnover\":0.1306418024526814}",
+        "lock_in_period": "{\"symbol\":\"MFIL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "MFIL",
+          "full_name": "Manjushree Finance Ltd."
+        }
+      },
+      {
+        "id": 213,
+        "sector": "FINANCE",
+        "symbol": "MPFL",
+        "realtive_value": "{\"symbol\":\"MPFL\",\"PE_ratio\":\"154.69662023086\",\"EV_to_EBIT\":417.59,\"PB_ratio\":\"3.3427227771729\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"8.2328259587021\",\"price_to_sales\":\"11.150442477876\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.00646426533758545,\"earning_yield(EBIT_to_EV)\":0.0023946825770428237,\"PE_ratio_5_yrs\":203.52174213558342}",
+        "general": "{\"symbol\":\"MPFL\",\"LTP\":\"378\",\"market_cap\":2306556000,\"paid_up\":610200000,\"total_float\":49,\"size\":\"Small-cap\",\"asset_per_share\":382.5471435594887,\"book_value_per_share\":\"113.08146837103\",\"earning_per_share\":\"2.4434922976073\",\"sales_per_share\":\"33.90\",\"cash_flow_per_share\":\"8.2328259587021\",\"expected_DPS\":1.2589638348082597,\"reserve_surplus\":79823121.19000001,\"5_Yr_Avg._Dividend\":12.536,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":6.786065458631831,\"payout_ratio\":0,\"52_week_high_low\":\"263.8-417\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"MPFL\",\"alpha\":\"0.51515311442774\",\"sharpe_ratio\":\"1.1381879542646\",\"correlation_1_year\":\"0.63968791534481\",\"correlation_3_year\":\"-\",\"RSI_14\":\"60.422748477637\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.79365079365079\",\"MFI_14\":\"70.850588790912\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7454308093994778,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":72.246696035242,\"r_volume\":94.0897066541003}",
+        "risk": "{\"symbol\":\"MPFL\",\"three_month_beta\":\"1.1215168854227\",\"one_year_beta\":\"1.1818741669386\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"2.3829339950232\",\"EPS_trend\":\"0.48254195345788\",\"ROE_trend\":\"0.0043088239925069\",\"altman_z_score\":\"5.8957639687689\",\"current_ratio\":\"1.2976387758225\",\"equity_ratio\":0.295601393113259}",
+        "health": "{\"symbol\":\"MPFL\",\"piotroski_f_score\":\"5\",\"g_score\":\"6\",\"magic_formula_rank\":\"8\"}",
+        "regulator_others": "{\"symbol\":\"MPFL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"MPFL\",\"TotalAssets\":\"2334302.67\",\"DepositsFromCustomers\":\"1602505.968\",\"LoansAndAdvancesToCustomers\":\"1333868.843\",\"NetProfit\":\"11249.56573\",\"InterestIncome\":\"115661.0659\"}",
+        "profitability": "{\"symbol\":\"MPFL\",\"gross_profit_margin\":\"36.74967409609\",\"operating_margin\":5.15,\"pretax_profit_margin\":\"5.1518390300675\",\"net_margin\":\"2.5719148769944\",\"net_margin_(quarterly)(TTM)\":\"7.2079418808475\",\"ROE\":2.34,\"ROA\":0.72,\"ROIC\":\"0.471827967735\",\"ROCE\":0.95,\"asset_turnover\":0.10036106438881894}",
+        "lock_in_period": "{\"symbol\":\"MPFL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "MPFL",
+          "full_name": "Multipurpose Finance Company Limited"
+        }
+      },
+      {
+        "id": 214,
+        "sector": "FINANCE",
+        "symbol": "RLFL",
+        "realtive_value": "{\"symbol\":\"RLFL\",\"PE_ratio\":\"-24.811753728422\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"3.8429970565976\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"-5.9154817143295\",\"price_to_sales\":\"4.4269610145608\",\"dividend_yield\":1.8143236074270999,\"earning_yield(EPS_to_LTP)\":-0.04030347918754642,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":-93.12974701671588}",
+        "general": "{\"symbol\":\"RLFL\",\"LTP\":\"377\",\"market_cap\":4227873211.815825,\"paid_up\":1121451780.3225,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":775.9990355980713,\"book_value_per_share\":\"98.100517499168\",\"earning_per_share\":\"-15.194411653705\",\"sales_per_share\":\"85.16\",\"cash_flow_per_share\":\"-5.9154817143295\",\"expected_DPS\":-27.89339724531391,\"reserve_surplus\":-21302000,\"5_Yr_Avg._Dividend\":10.474,\"mutual_fund_holding\":\"0.24%\",\"one_week_float_turnover\":3.6656566202739174,\"payout_ratio\":-45.016550531143004,\"52_week_high_low\":\"275-413.1\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"RLFL\",\"alpha\":\"0.42540688892587\",\"sharpe_ratio\":\"0.87134271475754\",\"correlation_1_year\":\"0.76191290688423\",\"correlation_3_year\":\"0.61516379215911\",\"RSI_14\":\"56.146651313991\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.78350515463918\",\"MFI_14\":\"69.180854318063\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7385952208544532,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":48.458149779736,\"r_volume\":83.14910615308165}",
+        "risk": "{\"symbol\":\"RLFL\",\"three_month_beta\":\"1.4525867618803\",\"one_year_beta\":\"1.5061350183528\",\"three_year_beta\":\"1.2297919598387\",\"debt_to_common_equity\":\"6.9102440576285\",\"EPS_trend\":\"-4.0692253381484\",\"ROE_trend\":\"-0.037358723390142\",\"altman_z_score\":\"2.3973749462727\",\"current_ratio\":\"1.0863931079918\",\"equity_ratio\":0.12641834976452046}",
+        "health": "{\"symbol\":\"RLFL\",\"piotroski_f_score\":\"3\",\"g_score\":\"4\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"RLFL\",\"CreditToDepositRatio\":\"67.51\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.4\",\"C.TotalCapitalFund\":\"26.03\",\"Liquidity(Crr)\":\"35.17\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"2.69\",\"TotalLoanLossProvisionToTotalNpl\":\"111.27\",\"CostOfFunds\":\"6.6\",\"BaseRate\":\"9.65\",\"Wt.AverageInterestRateSpread\":\"4.81\",\"TotalNo.OfEmployees\":\"162\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"24.63\"}",
+        "market_share": "{\"symbol\":\"RLFL\",\"TotalAssets\":\"8702455\",\"DepositsFromCustomers\":\"6654380\",\"LoansAndAdvancesToCustomers\":\"5225863\",\"NetProfit\":\"-54765\",\"InterestIncome\":\"442054\"}",
+        "profitability": "{\"symbol\":\"RLFL\",\"gross_profit_margin\":\"27.176432566649\",\"operating_margin\":40.27,\"pretax_profit_margin\":\"40.26990243285\",\"net_margin\":\"26.903821867173\",\"net_margin_(quarterly)(TTM)\":\"-17.842193111443\",\"ROE\":-14.11,\"ROA\":-1.94,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.10869232559378116}",
+        "lock_in_period": "{\"symbol\":\"RLFL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "RLFL",
+          "full_name": "Reliance Finance Ltd."
+        }
+      },
+      {
+        "id": 215,
+        "sector": "FINANCE",
+        "symbol": "SIFC",
+        "realtive_value": "{\"symbol\":\"SIFC\",\"PE_ratio\":\"50.574808432435\",\"EV_to_EBIT\":33.31,\"PB_ratio\":\"2.7759746759046\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"131.10445752128\",\"price_to_sales\":\"3.6824958041268\",\"dividend_yield\":1.3538873994638,\"earning_yield(EPS_to_LTP)\":0.019772689823154693,\"earning_yield(EBIT_to_EV)\":0.030024959692766987,\"PE_ratio_5_yrs\":45.77581930434632}",
+        "general": "{\"symbol\":\"SIFC\",\"LTP\":\"373\",\"market_cap\":3661679349.0188384,\"paid_up\":981683471.5868199,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":873.7593280586676,\"book_value_per_share\":\"134.36722000299\",\"earning_per_share\":\"7.3752133040367\",\"sales_per_share\":\"101.29\",\"cash_flow_per_share\":\"131.10445752128\",\"expected_DPS\":0.01964207461783131,\"reserve_surplus\":337377589,\"5_Yr_Avg._Dividend\":9.436,\"mutual_fund_holding\":\"0.06%\",\"one_week_float_turnover\":2.011060129804089,\"payout_ratio\":68.472595866969,\"52_week_high_low\":\"300-395\",\"52_week_high_percent\":0.7684210526315789,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SIFC\",\"alpha\":\"0.21984549707813\",\"sharpe_ratio\":\"0.54865931517337\",\"correlation_1_year\":\"0.7397275544029\",\"correlation_3_year\":\"-\",\"RSI_14\":\"54.977106036569\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.68401486988848\",\"MFI_14\":\"49.068563869589\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7684210526315789,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":38.766519823789,\"r_volume\":52.53710656089604}",
+        "risk": "{\"symbol\":\"SIFC\",\"three_month_beta\":\"1.2571813736617\",\"one_year_beta\":\"1.3547174684775\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"5.5027714984993\",\"EPS_trend\":\"0.11235719373141\",\"ROE_trend\":\"0.00069732232382597\",\"altman_z_score\":\"2.2517525960874\",\"current_ratio\":\"1.1622625399676\",\"equity_ratio\":0.15378058417946516}",
+        "health": "{\"symbol\":\"SIFC\",\"piotroski_f_score\":\"4\",\"g_score\":\"3\",\"magic_formula_rank\":\"1\"}",
+        "regulator_others": "{\"symbol\":\"SIFC\",\"CreditToDepositRatio\":\"0.8467\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0.0114\",\"C.TotalCapitalFund\":\"0.2021\",\"Liquidity(Crr)\":\"0.0045\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.006\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0.0471\",\"TotalNo.OfEmployees\":\"79\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0.1907\"}",
+        "market_share": "{\"symbol\":\"SIFC\",\"TotalAssets\":\"8577550.905\",\"DepositsFromCustomers\":\"6937207.868\",\"LoansAndAdvancesToCustomers\":\"5294985.388\",\"NetProfit\":\"25644.875\",\"InterestIncome\":\"485041.119\"}",
+        "profitability": "{\"symbol\":\"SIFC\",\"gross_profit_margin\":\"27.476620289579\",\"operating_margin\":16.04,\"pretax_profit_margin\":\"16.03559513252\",\"net_margin\":\"11.530031418599\",\"net_margin_(quarterly)(TTM)\":\"7.2812847310067\",\"ROE\":5.48,\"ROA\":0.83,\"ROIC\":\"3.5830614007049\",\"ROCE\":9.33,\"asset_turnover\":0.11349861107855337}",
+        "lock_in_period": "{\"symbol\":\"SIFC\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SIFC",
+          "full_name": "Shree Investment Finance Co. Ltd."
+        }
+      },
+      {
+        "id": 216,
+        "sector": "FINANCE",
+        "symbol": "PFL",
+        "realtive_value": "{\"symbol\":\"PFL\",\"PE_ratio\":\"38.62974152503\",\"EV_to_EBIT\":29.21,\"PB_ratio\":\"2.8762921339718\",\"PEG_ratio\":\"2.03126269756\",\"price_to_cash_flow\":\"105.61895993318\",\"price_to_sales\":\"2.5313984512267\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.025886789828817484,\"earning_yield(EBIT_to_EV)\":0.03423996696997816,\"PE_ratio_5_yrs\":45.75527193453426}",
+        "general": "{\"symbol\":\"PFL\",\"LTP\":\"389\",\"market_cap\":4211145171.7605267,\"paid_up\":1082556599.4243,\"total_float\":40,\"size\":\"Mid-cap\",\"asset_per_share\":1304.9683764814424,\"book_value_per_share\":\"135.24356424215\",\"earning_per_share\":\"10.06996124341\",\"sales_per_share\":\"153.67\",\"cash_flow_per_share\":\"105.61895993318\",\"expected_DPS\":-21.46577584244357,\"reserve_surplus\":381531526,\"5_Yr_Avg._Dividend\":9.1714,\"mutual_fund_holding\":\"0.13%\",\"one_week_float_turnover\":3.104733740284245,\"payout_ratio\":0,\"52_week_high_low\":\"325.1-420\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"PFL\",\"alpha\":\"0.20452064411305\",\"sharpe_ratio\":\"0.63014605232596\",\"correlation_1_year\":\"0.74816046601604\",\"correlation_3_year\":\"0.61333096724893\",\"RSI_14\":\"61.947551853963\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.81001727115717\",\"MFI_14\":\"69.199301233758\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.673340358271865,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":48.898678414097,\"r_volume\":251.52846225792334}",
+        "risk": "{\"symbol\":\"PFL\",\"three_month_beta\":\"1.0479062475258\",\"one_year_beta\":\"1.2219477904461\",\"three_year_beta\":\"1.4325489832414\",\"debt_to_common_equity\":\"8.6490238466724\",\"EPS_trend\":\"-0.21433964757445\",\"ROE_trend\":\"-0.0024336416063905\",\"altman_z_score\":\"2.1157077884208\",\"current_ratio\":\"1.1010317450244\",\"equity_ratio\":0.10363742667201532}",
+        "health": "{\"symbol\":\"PFL\",\"piotroski_f_score\":\"5\",\"g_score\":\"4\",\"magic_formula_rank\":\"4\"}",
+        "regulator_others": "{\"symbol\":\"PFL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0.0141\",\"C.TotalCapitalFund\":\"0.1391\",\"Liquidity(Crr)\":\"0.0275\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.0137\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0.0931\",\"Wt.AverageInterestRateSpread\":\"0.0462\",\"TotalNo.OfEmployees\":\"215\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0.125\"}",
+        "market_share": "{\"symbol\":\"PFL\",\"TotalAssets\":\"14127021.28\",\"DepositsFromCustomers\":\"12288841.65\",\"LoansAndAdvancesToCustomers\":\"8707490.734\",\"NetProfit\":\"21493.838\",\"InterestIncome\":\"789885.329\"}",
+        "profitability": "{\"symbol\":\"PFL\",\"gross_profit_margin\":\"30.108106443402\",\"operating_margin\":11.16,\"pretax_profit_margin\":\"11.160475877993\",\"net_margin\":\"7.7768441410423\",\"net_margin_(quarterly)(TTM)\":\"6.5529779679898\",\"ROE\":7.35,\"ROA\":0.79,\"ROIC\":\"3.5994529130397\",\"ROCE\":9.18,\"asset_turnover\":0.12038407398590416}",
+        "lock_in_period": "{\"symbol\":\"PFL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "PFL",
+          "full_name": "Pokhara Finance Ltd."
+        }
+      },
+      {
+        "id": 217,
+        "sector": "FINANCE",
+        "symbol": "SFCL",
+        "realtive_value": "{\"symbol\":\"SFCL\",\"PE_ratio\":\"-109.99944591361\",\"EV_to_EBIT\":101.17,\"PB_ratio\":\"4.2509527069335\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"-11.482400234946\",\"price_to_sales\":\"11.076497057805\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":-0.009090954883403125,\"earning_yield(EBIT_to_EV)\":0.009883974163336041,\"PE_ratio_5_yrs\":-73.49578744647843}",
+        "general": "{\"symbol\":\"SFCL\",\"LTP\":\"320\",\"market_cap\":2620516800,\"paid_up\":818911500,\"total_float\":41,\"size\":\"Small-cap\",\"asset_per_share\":290.86219939517275,\"book_value_per_share\":\"75.277243023208\",\"earning_per_share\":\"-2.909105562689\",\"sales_per_share\":\"28.89\",\"cash_flow_per_share\":\"-11.482400234946\",\"expected_DPS\":-58.86851021142089,\"reserve_surplus\":-202458000,\"5_Yr_Avg._Dividend\":\"-\",\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":7.152810864880317,\"payout_ratio\":0,\"52_week_high_low\":\"254-349\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SFCL\",\"alpha\":\"0.38705233014042\",\"sharpe_ratio\":\"0.92532209522563\",\"correlation_1_year\":\"0.7381434449349\",\"correlation_3_year\":\"-\",\"RSI_14\":\"55.601518615124\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.69230769230769\",\"MFI_14\":\"51.895975933844\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.6947368421052632,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":51.101321585903,\"r_volume\":132.68924966200495}",
+        "risk": "{\"symbol\":\"SFCL\",\"three_month_beta\":\"1.3485819382201\",\"one_year_beta\":\"1.3634504818946\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"2.8638795433236\",\"EPS_trend\":\"2.1716632383353\",\"ROE_trend\":\"0.029653629555562\",\"altman_z_score\":\"3.3542064351424\",\"current_ratio\":\"1.1658523558095\",\"equity_ratio\":0.25880723992234783}",
+        "health": "{\"symbol\":\"SFCL\",\"piotroski_f_score\":\"3\",\"g_score\":\"4\",\"magic_formula_rank\":\"6\"}",
+        "regulator_others": "{\"symbol\":\"SFCL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.25\",\"C.TotalCapitalFund\":\"28.07\",\"Liquidity(Crr)\":\"5.27\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"14\",\"Wt.AverageInterestRateSpread\":\"6\",\"TotalNo.OfEmployees\":\"65\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"26.82\"}",
+        "market_share": "{\"symbol\":\"SFCL\",\"TotalAssets\":\"2381904\",\"DepositsFromCustomers\":\"1537505\",\"LoansAndAdvancesToCustomers\":\"1411803\",\"NetProfit\":\"-21345\",\"InterestIncome\":\"117833\"}",
+        "profitability": "{\"symbol\":\"SFCL\",\"gross_profit_margin\":\"33.900594201811\",\"operating_margin\":13.23,\"pretax_profit_margin\":\"1.5797957393375\",\"net_margin\":\"0.11409056139612\",\"net_margin_(quarterly)(TTM)\":\"-10.069593501866\",\"ROE\":-3.92,\"ROA\":-0.94,\"ROIC\":\"1.9629967894509\",\"ROCE\":4.22,\"asset_turnover\":0.09311940318745611}",
+        "lock_in_period": "{\"symbol\":\"SFCL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SFCL",
+          "full_name": "Samriddhi Finance Company Limited"
+        }
+      },
+      {
+        "id": 218,
+        "sector": "FINANCE",
+        "symbol": "PROFL",
+        "realtive_value": "{\"symbol\":\"PROFL\",\"PE_ratio\":\"-7.0868376406725\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"5.1901064410645\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"26.534787043129\",\"price_to_sales\":\"4.7204602448739\",\"dividend_yield\":2.303125,\"earning_yield(EPS_to_LTP)\":-0.1411066614904281,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":-24.458569703378927}",
+        "general": "{\"symbol\":\"PROFL\",\"LTP\":\"320\",\"market_cap\":2713939200,\"paid_up\":848106000,\"total_float\":49,\"size\":\"Small-cap\",\"asset_per_share\":720.0226200498522,\"book_value_per_share\":\"61.655768264816\",\"earning_per_share\":\"-45.154131676937\",\"sales_per_share\":\"67.79\",\"cash_flow_per_share\":\"26.534787043129\",\"expected_DPS\":-53.071272930506325,\"reserve_surplus\":-325199732,\"5_Yr_Avg._Dividend\":6.3157,\"mutual_fund_holding\":\"0.05%\",\"one_week_float_turnover\":4.204663096358238,\"payout_ratio\":-16.321872941174,\"52_week_high_low\":\"269.2-461\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"PROFL\",\"alpha\":\"0.15379166484811\",\"sharpe_ratio\":\"0.36294975488954\",\"correlation_1_year\":\"0.655539725532\",\"correlation_3_year\":\"-\",\"RSI_14\":\"51.590553333785\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.60827250608272\",\"MFI_14\":\"38.542695888565\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.26485922836287806,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":35.242290748899,\"r_volume\":47.403688626251025}",
+        "risk": "{\"symbol\":\"PROFL\",\"three_month_beta\":\"1.4067439318985\",\"one_year_beta\":\"1.4149371966532\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"10.678106365028\",\"EPS_trend\":\"-13.266620681849\",\"ROE_trend\":\"-0.15673496637963\",\"altman_z_score\":\"2.3705642731601\",\"current_ratio\":\"1.0391453943782\",\"equity_ratio\":0.08563032092620577}",
+        "health": "{\"symbol\":\"PROFL\",\"piotroski_f_score\":\"5\",\"g_score\":\"4\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"PROFL\",\"CreditToDepositRatio\":\"93.09\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.1\",\"C.TotalCapitalFund\":\"29.63\",\"Liquidity(Crr)\":\"7.08\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"1.84\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"9.42\",\"Wt.AverageInterestRateSpread\":\"3.62\",\"TotalNo.OfEmployees\":\"115.52\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"28.53\"}",
+        "market_share": "{\"symbol\":\"PROFL\",\"TotalAssets\":\"6106555.042\",\"DepositsFromCustomers\":\"3997000.95\",\"LoansAndAdvancesToCustomers\":\"3602121.156\",\"NetProfit\":\"-105750.89\",\"InterestIncome\":\"274680.442\"}",
+        "profitability": "{\"symbol\":\"PROFL\",\"gross_profit_margin\":\"34.056107527455\",\"operating_margin\":16.96,\"pretax_profit_margin\":\"16.962368422342\",\"net_margin\":\"11.301705302518\",\"net_margin_(quarterly)(TTM)\":\"-66.608838585244\",\"ROE\":-55.12,\"ROA\":-6.54,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.09815544824190597}",
+        "lock_in_period": "{\"symbol\":\"PROFL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "PROFL",
+          "full_name": "ProgressiveFinance Limited"
+        }
+      },
+      {
+        "id": 219,
+        "sector": "FINANCE",
+        "symbol": "NFS",
+        "realtive_value": "{\"symbol\":\"NFS\",\"PE_ratio\":\"209.0814513607\",\"EV_to_EBIT\":82.52,\"PB_ratio\":\"2.7332882473373\",\"PEG_ratio\":\"34.532873890269\",\"price_to_cash_flow\":\"27.27527699033\",\"price_to_sales\":\"9.7236704900938\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.0047828250353726546,\"earning_yield(EBIT_to_EV)\":0.012117708142881144,\"PE_ratio_5_yrs\":77.5931184162008}",
+        "general": "{\"symbol\":\"NFS\",\"LTP\":\"373\",\"market_cap\":2721042460,\"paid_up\":729502000,\"total_float\":40,\"size\":\"Small-cap\",\"asset_per_share\":458.42539060893597,\"book_value_per_share\":\"136.46566561846\",\"earning_per_share\":\"1.783993738194\",\"sales_per_share\":\"38.36\",\"cash_flow_per_share\":\"27.27527699033\",\"expected_DPS\":-29.107275374159357,\"reserve_surplus\":266023016.00000006,\"5_Yr_Avg._Dividend\":23.16,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":12.904728157016704,\"payout_ratio\":0,\"52_week_high_low\":\"263-380\",\"52_week_high_percent\":0.9401709401709402,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"NFS\",\"alpha\":\"0.50799834335194\",\"sharpe_ratio\":\"1.1645706499781\",\"correlation_1_year\":\"0.69900070961801\",\"correlation_3_year\":\"-\",\"RSI_14\":\"60.391428132444\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.70116861435726\",\"MFI_14\":\"51.341635726105\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.9401709401709402,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":65.638766519824,\"r_volume\":90.32441173512201}",
+        "risk": "{\"symbol\":\"NFS\",\"three_month_beta\":\"1.0235006315716\",\"one_year_beta\":\"1.2595662515706\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"2.3592727380921\",\"EPS_trend\":\"-0.83739948622485\",\"ROE_trend\":\"-0.0065708785636409\",\"altman_z_score\":\"4.04149432605\",\"current_ratio\":\"1.24823461393\",\"equity_ratio\":0.29768348094426506}",
+        "health": "{\"symbol\":\"NFS\",\"piotroski_f_score\":\"5\",\"g_score\":\"5\",\"magic_formula_rank\":\"2\"}",
+        "regulator_others": "{\"symbol\":\"NFS\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"NFS\",\"TotalAssets\":\"3344222.393\",\"DepositsFromCustomers\":\"1994396.144\",\"LoansAndAdvancesToCustomers\":\"1489913.856\",\"NetProfit\":\"812.266\",\"InterestIncome\":\"143940.734\"}",
+        "profitability": "{\"symbol\":\"NFS\",\"gross_profit_margin\":\"41.433003692545\",\"operating_margin\":16.37,\"pretax_profit_margin\":\"16.368789671191\",\"net_margin\":\"16.549395211664\",\"net_margin_(quarterly)(TTM)\":\"4.6506614655735\",\"ROE\":1.32,\"ROA\":0.42,\"ROIC\":\"2.4760157430478\",\"ROCE\":2.8,\"asset_turnover\":0.08962379956940802}",
+        "lock_in_period": "{\"symbol\":\"NFS\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "NFS",
+          "full_name": "Nepal Finance Ltd."
+        }
+      }
+    ]
+  }
+}

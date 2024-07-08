@@ -1,0 +1,21 @@
+services:
+  mongo_db:
+    container_name: ss_mongo_db
+    image: mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    networks:
+      - summary_network 
+    volumes:
+      - summary_db_mongo:/data/db
+
+networks:
+  summary_network:
+    external: true
+
+volumes:
+  summary_db_mongo:
+    external: true
+
+    

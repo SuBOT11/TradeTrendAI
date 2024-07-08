@@ -1,0 +1,294 @@
+{
+  "DEVBANK": {
+    "data": [
+      {
+        "id": 219,
+        "sector": "DEVBANK",
+        "symbol": "MNBBL",
+        "realtive_value": "{\"symbol\":\"MNBBL\",\"PE_ratio\":\"21.610735232196\",\"EV_to_EBIT\":11.88,\"PB_ratio\":\"2.5907825255296\",\"PEG_ratio\":\"0.77126114500211\",\"price_to_cash_flow\":\"90.246799523367\",\"price_to_sales\":\"1.6410114177414\",\"dividend_yield\":2.8901408450704,\"earning_yield(EPS_to_LTP)\":0.04627329839801972,\"earning_yield(EBIT_to_EV)\":0.08416418039882746,\"PE_ratio_5_yrs\":20.343357385470032}",
+        "general": "{\"symbol\":\"MNBBL\",\"LTP\":\"355\",\"market_cap\":25017692926.111958,\"paid_up\":7047237443.9752,\"total_float\":49,\"size\":\"High-cap\",\"asset_per_share\":1799.0025161758429,\"book_value_per_share\":\"137.02423746564\",\"earning_per_share\":\"16.427020931297\",\"sales_per_share\":\"216.33\",\"cash_flow_per_share\":\"90.246799523367\",\"expected_DPS\":-4.50124030191704,\"reserve_surplus\":2609485318.9999995,\"5_Yr_Avg._Dividend\":15.40274,\"mutual_fund_holding\":\"1.86%\",\"one_week_float_turnover\":0.3706387946484987,\"payout_ratio\":62.458068586572004,\"52_week_high_low\":\"344-446\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.10784313725490197}",
+        "technical": "{\"symbol\":\"MNBBL\",\"alpha\":\"-0.06024555225176\",\"sharpe_ratio\":\"-0.28991634769139\",\"correlation_1_year\":\"0.78004360828949\",\"correlation_3_year\":\"0.80517934004013\",\"RSI_14\":\"44.345159507258\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.24137931034483\",\"MFI_14\":\"52.294585555629\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.10784313725490197,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":24.336283185841,\"r_volume\":61.66887474617404}",
+        "risk": "{\"symbol\":\"MNBBL\",\"three_month_beta\":\"0.77315336428026\",\"one_year_beta\":\"0.82104487838517\",\"three_year_beta\":\"1.1065365803134\",\"debt_to_common_equity\":\"12.129082485537\",\"EPS_trend\":\"-0.48647147584489\",\"ROE_trend\":\"-0.0090559545555969\",\"altman_z_score\":\"1.90917911284\",\"current_ratio\":\"1.0661714096616\",\"equity_ratio\":0.07616678476277663}",
+        "health": "{\"symbol\":\"MNBBL\",\"piotroski_f_score\":\"6\",\"g_score\":\"7\",\"magic_formula_rank\":\"1\"}",
+        "regulator_others": "{\"symbol\":\"MNBBL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"MNBBL\",\"TotalAssets\":\"126779978.938\",\"DepositsFromCustomers\":\"112316539.346\",\"LoansAndAdvancesToCustomers\":\"96298814.033\",\"NetProfit\":\"420017.366\",\"InterestIncome\":\"7401815.603\"}",
+        "profitability": "{\"symbol\":\"MNBBL\",\"gross_profit_margin\":\"28.79630796646\",\"operating_margin\":16.72,\"pretax_profit_margin\":\"16.700298604066\",\"net_margin\":\"11.604083608054\",\"net_margin_(quarterly)(TTM)\":\"7.5935011007706\",\"ROE\":12.53,\"ROA\":0.9,\"ROIC\":\"9.5113779946986\",\"ROCE\":20.73,\"asset_turnover\":0.11866919661890425}",
+        "lock_in_period": "{\"symbol\":\"MNBBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "MNBBL",
+          "full_name": "Muktinath Bikas Bank Ltd."
+        }
+      },
+      {
+        "id": 220,
+        "sector": "DEVBANK",
+        "symbol": "CORBL",
+        "realtive_value": "{\"symbol\":\"CORBL\",\"PE_ratio\":\"142.21385727604\",\"EV_to_EBIT\":-871.86,\"PB_ratio\":\"2.9240030073909\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"7.5196562628571\",\"price_to_sales\":\"11.489475086597\",\"dividend_yield\":1.1595547309833,\"earning_yield(EPS_to_LTP)\":0.00703166357452064,\"earning_yield(EBIT_to_EV)\":-0.0011469734990324808,\"PE_ratio_5_yrs\":209.09476320973604}",
+        "general": "{\"symbol\":\"CORBL\",\"LTP\":\"431.2\",\"market_cap\":2263800000,\"paid_up\":525000000,\"total_float\":30,\"size\":\"Small-cap\",\"asset_per_share\":419.13866133333335,\"book_value_per_share\":\"147.46906857143\",\"earning_per_share\":\"3.0320533333333\",\"sales_per_share\":\"37.53\",\"cash_flow_per_share\":\"7.5196562628571\",\"expected_DPS\":9.445685714285714,\"reserve_surplus\":249212614,\"5_Yr_Avg._Dividend\":5.26,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":3.1697777777777776,\"payout_ratio\":164.90475101582,\"52_week_high_low\":\"280.1-452\",\"52_week_high_percent\":0.8789994182664339,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"CORBL\",\"alpha\":\"0.88767698073565\",\"sharpe_ratio\":\"1.5518522264763\",\"correlation_1_year\":\"0.60118044188606\",\"correlation_3_year\":\"-\",\"RSI_14\":\"52.807486513255\",\"MACD\":\"0\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.40402476780186\",\"MFI_14\":\"59.447031712185\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.8789994182664339,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":85.840707964602,\"r_volume\":55.6509984884503}",
+        "risk": "{\"symbol\":\"CORBL\",\"three_month_beta\":\"1.2691453543884\",\"one_year_beta\":\"1.1438900260251\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"1.8422140657203\",\"EPS_trend\":\"-0.16327238095238\",\"ROE_trend\":\"-0.0016882088010609\",\"altman_z_score\":\"5.1036283681748\",\"current_ratio\":\"1.3427888436129\",\"equity_ratio\":0.3518383841381167}",
+        "health": "{\"symbol\":\"CORBL\",\"piotroski_f_score\":\"4\",\"g_score\":\"5\",\"magic_formula_rank\":\"12\"}",
+        "regulator_others": "{\"symbol\":\"CORBL\",\"CreditToDepositRatio\":\"1.24\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0.0001\",\"C.TotalCapitalFund\":\"0.5567\",\"Liquidity(Crr)\":\"0.0194\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.0494\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0.1803\",\"Wt.AverageInterestRateSpread\":\"0.0406\",\"TotalNo.OfEmployees\":\"35\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0.5566\"}",
+        "market_share": "{\"symbol\":\"CORBL\",\"TotalAssets\":\"2200477.972\",\"DepositsFromCustomers\":\"1418023.729\",\"LoansAndAdvancesToCustomers\":\"1068897.251\",\"NetProfit\":\"9151.728\",\"InterestIncome\":\"97418.158\"}",
+        "profitability": "{\"symbol\":\"CORBL\",\"gross_profit_margin\":\"52.265536539248\",\"operating_margin\":12.05,\"pretax_profit_margin\":\"13.861406379351\",\"net_margin\":\"3.4594442937535\",\"net_margin_(quarterly)(TTM)\":\"8.0790123456789\",\"ROE\":2.13,\"ROA\":0.8,\"ROIC\":\"-7.410569140546\",\"ROCE\":-0.35,\"asset_turnover\":0.09962933825804536}",
+        "lock_in_period": "{\"symbol\":\"CORBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "CORBL",
+          "full_name": "Corporate Development Bank Limited"
+        }
+      },
+      {
+        "id": 221,
+        "sector": "DEVBANK",
+        "symbol": "EDBL",
+        "realtive_value": "{\"symbol\":\"EDBL\",\"PE_ratio\":\"134.34114106892\",\"EV_to_EBIT\":13.92,\"PB_ratio\":\"2.357305832184\",\"PEG_ratio\":\"4.4780380356306\",\"price_to_cash_flow\":\"28.543755411538\",\"price_to_sales\":\"2.6571301512007\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.007443736088909624,\"earning_yield(EBIT_to_EV)\":0.0718152345740283,\"PE_ratio_5_yrs\":64.51306588102115}",
+        "general": "{\"symbol\":\"EDBL\",\"LTP\":\"358.5\",\"market_cap\":4480154804.210043,\"paid_up\":1249694506.0558,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1301.4268199298463,\"book_value_per_share\":\"152.08039411155\",\"earning_per_share\":\"2.6685793878741\",\"sales_per_share\":\"134.92\",\"cash_flow_per_share\":\"28.543755411538\",\"expected_DPS\":-7.226099143622852,\"reserve_surplus\":650845855,\"5_Yr_Avg._Dividend\":17.656,\"mutual_fund_holding\":\"0.43%\",\"one_week_float_turnover\":1.624021392756509,\"payout_ratio\":0,\"52_week_high_low\":\"271-390\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"EDBL\",\"alpha\":\"0.33924874663529\",\"sharpe_ratio\":\"0.78291294029276\",\"correlation_1_year\":\"0.69914430517002\",\"correlation_3_year\":\"0.62168164139103\",\"RSI_14\":\"50.335863596046\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.43916349809886\",\"MFI_14\":\"66.967829331762\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7352941176470589,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":58.849557522123995,\"r_volume\":25.10252559353451}",
+        "risk": "{\"symbol\":\"EDBL\",\"three_month_beta\":\"0.96415822321561\",\"one_year_beta\":\"1.1222571389736\",\"three_year_beta\":\"1.0089350298041\",\"debt_to_common_equity\":\"7.5574924211158\",\"EPS_trend\":\"-1.6103161934763\",\"ROE_trend\":\"-0.012378608427758\",\"altman_z_score\":\"1.9631263533136\",\"current_ratio\":\"1.0748575400017\",\"equity_ratio\":0.1168566617673103}",
+        "health": "{\"symbol\":\"EDBL\",\"piotroski_f_score\":\"6\",\"g_score\":\"5\",\"magic_formula_rank\":\"10\"}",
+        "regulator_others": "{\"symbol\":\"EDBL\",\"CreditToDepositRatio\":\"83.87\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.11\",\"C.TotalCapitalFund\":\"12.26\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"3.77\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"4.84\",\"TotalNo.OfEmployees\":\"266\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"11.15\"}",
+        "market_share": "{\"symbol\":\"EDBL\",\"TotalAssets\":\"16263859.469\",\"DepositsFromCustomers\":\"13836098.81\",\"LoansAndAdvancesToCustomers\":\"10549671.431\",\"NetProfit\":\"-69945.054\",\"InterestIncome\":\"768812.812\"}",
+        "profitability": "{\"symbol\":\"EDBL\",\"gross_profit_margin\":\"43.661402422026\",\"operating_margin\":5.2,\"pretax_profit_margin\":\"5.1951509268538\",\"net_margin\":\"3.6366056485135\",\"net_margin_(quarterly)(TTM)\":\"1.9778975599423\",\"ROE\":1.93,\"ROA\":0.21,\"ROIC\":\"6.3311786913325\",\"ROCE\":13.94,\"asset_turnover\":0.1087007546153129}",
+        "lock_in_period": "{\"symbol\":\"EDBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "EDBL",
+          "full_name": "Excel Development Bank Ltd."
+        }
+      },
+      {
+        "id": 222,
+        "sector": "DEVBANK",
+        "symbol": "GBBL",
+        "realtive_value": "{\"symbol\":\"GBBL\",\"PE_ratio\":\"16.984080427046\",\"EV_to_EBIT\":13.08,\"PB_ratio\":\"2.5255563011963\",\"PEG_ratio\":\"0.56613601423487\",\"price_to_cash_flow\":\"53.680970226425\",\"price_to_sales\":\"1.9141724893107\",\"dividend_yield\":2.7240533914465,\"earning_yield(EPS_to_LTP)\":0.05887866607176245,\"earning_yield(EBIT_to_EV)\":0.07644046002995086,\"PE_ratio_5_yrs\":19.438659127721106}",
+        "general": "{\"symbol\":\"GBBL\",\"LTP\":\"367.1\",\"market_cap\":20853179120.9997,\"paid_up\":5680517330.7,\"total_float\":49,\"size\":\"High-cap\",\"asset_per_share\":1617.2246738076483,\"book_value_per_share\":\"145.354114587\",\"earning_per_share\":\"21.614358314944\",\"sales_per_share\":\"191.78\",\"cash_flow_per_share\":\"53.680970226425\",\"expected_DPS\":0.40818067528266366,\"reserve_surplus\":2580763671,\"5_Yr_Avg._Dividend\":14.342099999999999,\"mutual_fund_holding\":\"2.67%\",\"one_week_float_turnover\":0.4177544202998441,\"payout_ratio\":46.265541887894,\"52_week_high_low\":\"340-424\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"GBBL\",\"alpha\":\"0.08009133664261\",\"sharpe_ratio\":\"0.19443658591219\",\"correlation_1_year\":\"0.80709691082734\",\"correlation_3_year\":\"0.71256957308903\",\"RSI_14\":\"46.639199629218\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.33948339483395\",\"MFI_14\":\"60.812473686642\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.3226190476190479,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":37.16814159292,\"r_volume\":51.6151154685177}",
+        "risk": "{\"symbol\":\"GBBL\",\"three_month_beta\":\"1.1123153890596\",\"one_year_beta\":\"1.0108715336289\",\"three_year_beta\":\"1.0161176586973\",\"debt_to_common_equity\":\"10.126101785061\",\"EPS_trend\":\"1.1014625668309\",\"ROE_trend\":\"0.0029427364110278\",\"altman_z_score\":\"1.9550887997748\",\"current_ratio\":\"1.0861666687184\",\"equity_ratio\":0.08987873913942465}",
+        "health": "{\"symbol\":\"GBBL\",\"piotroski_f_score\":\"6\",\"g_score\":\"6\",\"magic_formula_rank\":\"3\"}",
+        "regulator_others": "{\"symbol\":\"GBBL\",\"CreditToDepositRatio\":\"85.31\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"3.24\",\"C.TotalCapitalFund\":\"13.48\",\"Liquidity(Crr)\":\"3.14\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.85\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"11.41\",\"Wt.AverageInterestRateSpread\":\"4.66\",\"TotalNo.OfEmployees\":\"1027\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"10.24\"}",
+        "market_share": "{\"symbol\":\"GBBL\",\"TotalAssets\":\"91866727.872\",\"DepositsFromCustomers\":\"78575554.791\",\"LoansAndAdvancesToCustomers\":\"63909099.629\",\"NetProfit\":\"512582.042\",\"InterestIncome\":\"5457589.185\"}",
+        "profitability": "{\"symbol\":\"GBBL\",\"gross_profit_margin\":\"32.634398934251\",\"operating_margin\":18.74,\"pretax_profit_margin\":\"19.04209319885\",\"net_margin\":\"12.959008750834\",\"net_margin_(quarterly)(TTM)\":\"11.270392280188\",\"ROE\":16.08,\"ROA\":1.39,\"ROIC\":\"9.6232695115345\",\"ROCE\":19.56,\"asset_turnover\":0.1234506776557849}",
+        "lock_in_period": "{\"symbol\":\"GBBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "GBBL",
+          "full_name": "Garima Bikas Bank Limited"
+        }
+      },
+      {
+        "id": 223,
+        "sector": "DEVBANK",
+        "symbol": "GRDBL",
+        "realtive_value": "{\"symbol\":\"GRDBL\",\"PE_ratio\":\"69.40566911726\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"3.2872480931235\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"-18.177127720791\",\"price_to_sales\":\"3.4882161333589\",\"dividend_yield\":1.0436693216149,\"earning_yield(EPS_to_LTP)\":0.014408044943857732,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":92.33886537532068}",
+        "general": "{\"symbol\":\"GRDBL\",\"LTP\":\"364.1\",\"market_cap\":1961486802.0000002,\"paid_up\":538722000,\"total_float\":45,\"size\":\"Small-cap\",\"asset_per_share\":935.3846740990715,\"book_value_per_share\":\"110.76133887237\",\"earning_per_share\":\"5.2459691640586\",\"sales_per_share\":\"104.38\",\"cash_flow_per_share\":\"-18.177127720791\",\"expected_DPS\":4.1341250218108785,\"reserve_surplus\":77695698,\"5_Yr_Avg._Dividend\":4,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":3.1086328178334814,\"payout_ratio\":72.436567603842,\"52_week_high_low\":\"237-393.4\",\"52_week_high_percent\":0.8126598465473148,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"GRDBL\",\"alpha\":\"0.69640259842677\",\"sharpe_ratio\":\"1.2295510223421\",\"correlation_1_year\":\"0.5850796544229\",\"correlation_3_year\":\"0.58755989199547\",\"RSI_14\":\"55.679425018543\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.37868852459016\",\"MFI_14\":\"61.274262987543\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.8126598465473148,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":73.893805309735,\"r_volume\":65.3990950561008}",
+        "risk": "{\"symbol\":\"GRDBL\",\"three_month_beta\":\"1.1134960343565\",\"one_year_beta\":\"1.1867184930436\",\"three_year_beta\":\"1.125829964973\",\"debt_to_common_equity\":\"7.4450466460543\",\"EPS_trend\":\"0.46480615233831\",\"ROE_trend\":\"0.0039976683955626\",\"altman_z_score\":\"2.5106934994639\",\"current_ratio\":\"1.1198251649157\",\"equity_ratio\":0.11841260774108855}",
+        "health": "{\"symbol\":\"GRDBL\",\"piotroski_f_score\":\"3\",\"g_score\":\"3\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"GRDBL\",\"CreditToDepositRatio\":\"84.51\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.19\",\"C.TotalCapitalFund\":\"20.44\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"1.48\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"12.51\",\"Wt.AverageInterestRateSpread\":\"3.89\",\"TotalNo.OfEmployees\":\"96\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"19.25\"}",
+        "market_share": "{\"symbol\":\"GRDBL\",\"TotalAssets\":\"5039123.024\",\"DepositsFromCustomers\":\"4115823.359\",\"LoansAndAdvancesToCustomers\":\"3554470.662\",\"NetProfit\":\"12601.207\",\"InterestIncome\":\"281354.296\"}",
+        "profitability": "{\"symbol\":\"GRDBL\",\"gross_profit_margin\":\"38.214343164768\",\"operating_margin\":9.84,\"pretax_profit_margin\":\"9.2106545675615\",\"net_margin\":\"6.038629307117\",\"net_margin_(quarterly)(TTM)\":\"5.0258374823324\",\"ROE\":4.82,\"ROA\":0.61,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.12195118818526067}",
+        "lock_in_period": "{\"symbol\":\"GRDBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "GRDBL",
+          "full_name": "Green Development Bank Ltd."
+        }
+      },
+      {
+        "id": 224,
+        "sector": "DEVBANK",
+        "symbol": "KRBL",
+        "realtive_value": "{\"symbol\":\"KRBL\",\"PE_ratio\":\"27.672271944068\",\"EV_to_EBIT\":-28.49,\"PB_ratio\":\"3.785107494433\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"3.6886333480761\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.03613725689098561,\"earning_yield(EBIT_to_EV)\":-0.03510569128669696,\"PE_ratio_5_yrs\":61.88686055983893}",
+        "general": "{\"symbol\":\"KRBL\",\"LTP\":\"417\",\"market_cap\":2096801100,\"paid_up\":502830000,\"total_float\":49,\"size\":\"Small-cap\",\"asset_per_share\":1057.8903991408627,\"book_value_per_share\":\"110.1686017143\",\"earning_per_share\":\"15.069236123541\",\"sales_per_share\":\"113.05\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":-67.9577562993457,\"reserve_surplus\":51130783.999999985,\"5_Yr_Avg._Dividend\":18,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":14.555574631260534,\"payout_ratio\":0,\"52_week_high_low\":\"249-442.4\",\"52_week_high_percent\":0.8686659772492245,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"KRBL\",\"alpha\":\"1.516761726843\",\"sharpe_ratio\":\"1.9450557713845\",\"correlation_1_year\":\"0.60656472045245\",\"correlation_3_year\":\"0.61558396014009\",\"RSI_14\":\"59.356270374348\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.71777777777778\",\"MFI_14\":\"76.85776921429\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.8686659772492245,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":92.920353982301,\"r_volume\":102.39281191075537}",
+        "risk": "{\"symbol\":\"KRBL\",\"three_month_beta\":\"1.0346958424608\",\"one_year_beta\":\"1.2082694486021\",\"three_year_beta\":\"1.2413504035642\",\"debt_to_common_equity\":\"8.602467326297\",\"EPS_trend\":\"4.61305928445\",\"ROE_trend\":\"0.039501606786756\",\"altman_z_score\":null,\"current_ratio\":\"1.0819724171769\",\"equity_ratio\":0.10413990201561998}",
+        "health": "{\"symbol\":\"KRBL\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":\"13\"}",
+        "regulator_others": "{\"symbol\":\"KRBL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"3.67\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.84\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"12.22\",\"Wt.AverageInterestRateSpread\":\"7.7\",\"TotalNo.OfEmployees\":\"132\",\"No.OfBranches\":\"17\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"KRBL\",\"TotalAssets\":\"5319390.294\",\"DepositsFromCustomers\":\"4663227.452\",\"LoansAndAdvancesToCustomers\":\"3422576.612\",\"NetProfit\":\"47830.691\",\"InterestIncome\":\"266986.837\"}",
+        "profitability": "{\"symbol\":\"KRBL\",\"gross_profit_margin\":\"18.258295361719\",\"operating_margin\":-12.65,\"pretax_profit_margin\":\"-12.651274050633\",\"net_margin\":\"955.31931909837\",\"net_margin_(quarterly)(TTM)\":\"13.329709087608\",\"ROE\":12.94,\"ROA\":1.46,\"ROIC\":\"-2.0578455616179\",\"ROCE\":-2.32,\"asset_turnover\":0.1092385316973548}",
+        "lock_in_period": "{\"symbol\":\"KRBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "KRBL",
+          "full_name": "Karnali Development Bank Limited"
+        }
+      },
+      {
+        "id": 225,
+        "sector": "DEVBANK",
+        "symbol": "JBBL",
+        "realtive_value": "{\"symbol\":\"JBBL\",\"PE_ratio\":\"20.791192486952\",\"EV_to_EBIT\":14.01,\"PB_ratio\":\"2.2028232430855\",\"PEG_ratio\":\"1.9599232891223\",\"price_to_cash_flow\":\"51.537689748579\",\"price_to_sales\":\"1.5516602234814\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.04809728930303413,\"earning_yield(EBIT_to_EV)\":0.07138959137879995,\"PE_ratio_5_yrs\":21.564080695936678}",
+        "general": "{\"symbol\":\"JBBL\",\"LTP\":\"293\",\"market_cap\":12879652657.699999,\"paid_up\":4395785890,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1658.5847062036955,\"book_value_per_share\":\"133.01112602643\",\"earning_per_share\":\"14.092505765789\",\"sales_per_share\":\"188.83\",\"cash_flow_per_share\":\"51.537689748579\",\"expected_DPS\":-5.653030566509234,\"reserve_surplus\":1451098427.0000002,\"5_Yr_Avg._Dividend\":10.69,\"mutual_fund_holding\":\"0.89%\",\"one_week_float_turnover\":0.9000039102896158,\"payout_ratio\":0,\"52_week_high_low\":\"252.8-353\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"JBBL\",\"alpha\":\"-0.072108214482244\",\"sharpe_ratio\":\"-0.29629378022144\",\"correlation_1_year\":\"0.81412279441475\",\"correlation_3_year\":\"0.71227469203062\",\"RSI_14\":\"44.715240065448\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.182156133829\",\"MFI_14\":\"62.736854946824\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.4011976047904191,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":28.318584070796,\"r_volume\":35.16295183099471}",
+        "risk": "{\"symbol\":\"JBBL\",\"three_month_beta\":\"1.3362983782775\",\"one_year_beta\":\"1.4232052618475\",\"three_year_beta\":\"1.1322266352238\",\"debt_to_common_equity\":\"11.469518571678\",\"EPS_trend\":\"0.8272859258848\",\"ROE_trend\":\"0.0067897800146425\",\"altman_z_score\":\"1.9214487106901\",\"current_ratio\":\"1.0632264021896\",\"equity_ratio\":0.08019555804079283}",
+        "health": "{\"symbol\":\"JBBL\",\"piotroski_f_score\":\"6\",\"g_score\":\"6\",\"magic_formula_rank\":\"9\"}",
+        "regulator_others": "{\"symbol\":\"JBBL\",\"CreditToDepositRatio\":\"0.8636\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0.0384\",\"C.TotalCapitalFund\":\"0.1274\",\"Liquidity(Crr)\":\"0.0323\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.0147\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0.1189\",\"Wt.AverageInterestRateSpread\":\"0.0458\",\"TotalNo.OfEmployees\":\"921\",\"No.OfBranches\":\"118\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0.089\"}",
+        "market_share": "{\"symbol\":\"JBBL\",\"TotalAssets\":\"72907832.489\",\"DepositsFromCustomers\":\"60225023.015\",\"LoansAndAdvancesToCustomers\":\"50809709.17\",\"NetProfit\":\"101034.748\",\"InterestIncome\":\"4044932.485\"}",
+        "profitability": "{\"symbol\":\"JBBL\",\"gross_profit_margin\":\"32.527184494435\",\"operating_margin\":15.33,\"pretax_profit_margin\":\"15.331094053343\",\"net_margin\":\"10.755484469952\",\"net_margin_(quarterly)(TTM)\":\"7.4630650668797\",\"ROE\":10.61,\"ROA\":0.9,\"ROIC\":\"6.7648539524376\",\"ROCE\":18.11,\"asset_turnover\":0.11999626967587065}",
+        "lock_in_period": "{\"symbol\":\"JBBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "JBBL",
+          "full_name": "Jyoti Bikas Bank Limited"
+        }
+      },
+      {
+        "id": 226,
+        "sector": "DEVBANK",
+        "symbol": "KSBBL",
+        "realtive_value": "{\"symbol\":\"KSBBL\",\"PE_ratio\":\"23.627196956725\",\"EV_to_EBIT\":11.59,\"PB_ratio\":\"2.3474804552874\",\"PEG_ratio\":\"0.78757323189083\",\"price_to_cash_flow\":\"43.374389768273\",\"price_to_sales\":\"1.602792163927\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.042324106487603264,\"earning_yield(EBIT_to_EV)\":0.08625211975690258,\"PE_ratio_5_yrs\":21.475683434411653}",
+        "general": "{\"symbol\":\"KSBBL\",\"LTP\":\"355.9\",\"market_cap\":11677665307.471214,\"paid_up\":3281164739.3849998,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":2002.6826501651515,\"book_value_per_share\":\"151.60935597925\",\"earning_per_share\":\"15.063149498938\",\"sales_per_share\":\"222.05\",\"cash_flow_per_share\":\"43.374389768273\",\"expected_DPS\":5.319064169655567,\"reserve_surplus\":1693388064,\"5_Yr_Avg._Dividend\":9.008,\"mutual_fund_holding\":\"1.38%\",\"one_week_float_turnover\":2.381782394025136,\"payout_ratio\":0,\"52_week_high_low\":\"277-380\",\"52_week_high_percent\":0.7660194174757279,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"KSBBL\",\"alpha\":\"0.33022031085887\",\"sharpe_ratio\":\"0.77524261227751\",\"correlation_1_year\":\"0.77776058076979\",\"correlation_3_year\":\"0.62821057799678\",\"RSI_14\":\"52.057308308265\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.51219512195122\",\"MFI_14\":\"60.685488767085\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.7660194174757279,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":55.309734513274,\"r_volume\":64.48491787866249}",
+        "risk": "{\"symbol\":\"KSBBL\",\"three_month_beta\":\"1.4602624599317\",\"one_year_beta\":\"1.262306832931\",\"three_year_beta\":\"1.1683228086299\",\"debt_to_common_equity\":\"12.209492496424\",\"EPS_trend\":\"0.3023310863038\",\"ROE_trend\":\"8.8782171137955E-5\",\"altman_z_score\":\"1.9376109463982\",\"current_ratio\":\"1.0562828504724\",\"equity_ratio\":0.07570313552083927}",
+        "health": "{\"symbol\":\"KSBBL\",\"piotroski_f_score\":\"7\",\"g_score\":\"3\",\"magic_formula_rank\":\"4\"}",
+        "regulator_others": "{\"symbol\":\"KSBBL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"KSBBL\",\"TotalAssets\":\"65711316.959\",\"DepositsFromCustomers\":\"56296442.378\",\"LoansAndAdvancesToCustomers\":\"43982694.986\",\"NetProfit\":\"258919.578\",\"InterestIncome\":\"3528011.763\"}",
+        "profitability": "{\"symbol\":\"KSBBL\",\"gross_profit_margin\":\"34.143512606099\",\"operating_margin\":14.82,\"pretax_profit_margin\":\"14.52538974797\",\"net_margin\":\"10.110621578565\",\"net_margin_(quarterly)(TTM)\":\"6.7836746223544\",\"ROE\":10.29,\"ROA\":0.8,\"ROIC\":\"9.1833563864759\",\"ROCE\":17.71,\"asset_turnover\":0.1172233733831011}",
+        "lock_in_period": "{\"symbol\":\"KSBBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "KSBBL",
+          "full_name": "Kamana Sewa Bikas Bank Limited"
+        }
+      },
+      {
+        "id": 227,
+        "sector": "DEVBANK",
+        "symbol": "LBBL",
+        "realtive_value": "{\"symbol\":\"LBBL\",\"PE_ratio\":\"23.972960152154\",\"EV_to_EBIT\":16.72,\"PB_ratio\":\"2.159851560138\",\"PEG_ratio\":\"1.0815762738898\",\"price_to_cash_flow\":\"54.901363577399\",\"price_to_sales\":\"1.9546079079945\",\"dividend_yield\":2.2129653736006,\"earning_yield(EPS_to_LTP)\":0.041713663796756055,\"earning_yield(EBIT_to_EV)\":0.059812596226712006,\"PE_ratio_5_yrs\":23.10228936341067}",
+        "general": "{\"symbol\":\"LBBL\",\"LTP\":\"384.1\",\"market_cap\":13513205714.71422,\"paid_up\":3518147803.8828998,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1886.2725817476435,\"book_value_per_share\":\"177.83629536812\",\"earning_per_share\":\"16.022218264334\",\"sales_per_share\":\"196.51\",\"cash_flow_per_share\":\"54.901363577399\",\"expected_DPS\":0.4288162647217236,\"reserve_surplus\":2738409584.0000005,\"5_Yr_Avg._Dividend\":12.83684,\"mutual_fund_holding\":\"2.26%\",\"one_week_float_turnover\":0.42355311147956254,\"payout_ratio\":53.051330719425,\"52_week_high_low\":\"305-451\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"LBBL\",\"alpha\":\"0.016778445254796\",\"sharpe_ratio\":\"-0.029939559010809\",\"correlation_1_year\":\"0.77302042365417\",\"correlation_3_year\":\"0.65842303415383\",\"RSI_14\":\"46.102749925971\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.35504885993485\",\"MFI_14\":\"46.218291640013\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.5417808219178084,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":32.743362831858,\"r_volume\":34.9843877636712}",
+        "risk": "{\"symbol\":\"LBBL\",\"three_month_beta\":\"1.0286134849373\",\"one_year_beta\":\"1.2268946555322\",\"three_year_beta\":\"1.2789194622491\",\"debt_to_common_equity\":\"9.6067919253667\",\"EPS_trend\":\"0.11103581252864\",\"ROE_trend\":\"-0.00074201317088539\",\"altman_z_score\":\"2.0288024172049\",\"current_ratio\":\"1.0739121964345\",\"equity_ratio\":0.09427921348472094}",
+        "health": "{\"symbol\":\"LBBL\",\"piotroski_f_score\":\"6\",\"g_score\":\"5\",\"magic_formula_rank\":\"11\"}",
+        "regulator_others": "{\"symbol\":\"LBBL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"LBBL\",\"TotalAssets\":\"66361857.41\",\"DepositsFromCustomers\":\"56085602.461\",\"LoansAndAdvancesToCustomers\":\"44461722.982\",\"NetProfit\":\"212269.798\",\"InterestIncome\":\"3456187.87\"}",
+        "profitability": "{\"symbol\":\"LBBL\",\"gross_profit_margin\":\"31.784871739384\",\"operating_margin\":19.54,\"pretax_profit_margin\":\"19.453298895238\",\"net_margin\":\"13.216910123037\",\"net_margin_(quarterly)(TTM)\":\"8.1533857128563\",\"ROE\":9.35,\"ROA\":0.67,\"ROIC\":\"4.9957630927523\",\"ROCE\":16.24,\"asset_turnover\":0.08196337445129337}",
+        "lock_in_period": "{\"symbol\":\"LBBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "LBBL",
+          "full_name": "Lumbini Bikas Bank Ltd."
+        }
+      },
+      {
+        "id": 228,
+        "sector": "DEVBANK",
+        "symbol": "MDB",
+        "realtive_value": "{\"symbol\":\"MDB\",\"PE_ratio\":\"31.606836959053\",\"EV_to_EBIT\":20.42,\"PB_ratio\":\"3.1780804566978\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"-93.832880167725\",\"price_to_sales\":\"5.132892363199\",\"dividend_yield\":2.3430178069353,\"earning_yield(EPS_to_LTP)\":0.03163872428283505,\"earning_yield(EBIT_to_EV)\":0.04898210689277811,\"PE_ratio_5_yrs\":31.723150593895106}",
+        "general": "{\"symbol\":\"MDB\",\"LTP\":\"426.8\",\"market_cap\":4743568629.9599495,\"paid_up\":1111426576.8416,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":719.4756744727051,\"book_value_per_share\":\"134.29490090489\",\"earning_per_share\":\"13.503407523914\",\"sales_per_share\":\"83.15\",\"cash_flow_per_share\":\"-93.832880167725\",\"expected_DPS\":4.381906912681371,\"reserve_surplus\":381162651,\"5_Yr_Avg._Dividend\":14.457999999999998,\"mutual_fund_holding\":\"2.55%\",\"one_week_float_turnover\":3.580891479573542,\"payout_ratio\":74.05538181596299,\"52_week_high_low\":\"350.3-435\",\"52_week_high_percent\":0.9031877213695396,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"MDB\",\"alpha\":\"0.32878848915639\",\"sharpe_ratio\":\"0.8679469141956\",\"correlation_1_year\":\"0.6447137980979\",\"correlation_3_year\":\"0.69538682981339\",\"RSI_14\":\"60.867360598769\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.74517374517375\",\"MFI_14\":\"83.317772656752\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.9031877213695396,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":60.17699115044201,\"r_volume\":224.5637530545416}",
+        "risk": "{\"symbol\":\"MDB\",\"three_month_beta\":\"0.46354325776971\",\"one_year_beta\":\"0.90629024238151\",\"three_year_beta\":\"1.1892675148012\",\"debt_to_common_equity\":\"4.3574310686768\",\"EPS_trend\":\"0.15501005967447\",\"ROE_trend\":\"-0.0015402027008512\",\"altman_z_score\":\"2.4733839092177\",\"current_ratio\":\"1.2141792985626\",\"equity_ratio\":0.18665662513636402}",
+        "health": "{\"symbol\":\"MDB\",\"piotroski_f_score\":\"4\",\"g_score\":\"5\",\"magic_formula_rank\":\"6\"}",
+        "regulator_others": "{\"symbol\":\"MDB\",\"CreditToDepositRatio\":\"69.77\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.33\",\"C.TotalCapitalFund\":\"30.65\",\"Liquidity(Crr)\":\"50.39\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"1.25\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"12.12\",\"Wt.AverageInterestRateSpread\":\"4.6\",\"TotalNo.OfEmployees\":\"95\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"29.32\"}",
+        "market_share": "{\"symbol\":\"MDB\",\"TotalAssets\":\"7996443.86\",\"DepositsFromCustomers\":\"6372158.456\",\"LoansAndAdvancesToCustomers\":\"3922979.221\",\"NetProfit\":\"48869.17\",\"InterestIncome\":\"436843.443\"}",
+        "profitability": "{\"symbol\":\"MDB\",\"gross_profit_margin\":\"35.812304478956\",\"operating_margin\":23.85,\"pretax_profit_margin\":\"23.847940714383\",\"net_margin\":\"16.44357873722\",\"net_margin_(quarterly)(TTM)\":\"16.239816625272\",\"ROE\":10.5,\"ROA\":1.87,\"ROIC\":\"12.072693569326\",\"ROCE\":17.95,\"asset_turnover\":0.11518179361806215}",
+        "lock_in_period": "{\"symbol\":\"MDB\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "MDB",
+          "full_name": "Miteri Development Bank Limited"
+        }
+      },
+      {
+        "id": 229,
+        "sector": "DEVBANK",
+        "symbol": "MLBL",
+        "realtive_value": "{\"symbol\":\"MLBL\",\"PE_ratio\":\"31.321982508812\",\"EV_to_EBIT\":10.12,\"PB_ratio\":\"2.1105405751652\",\"PEG_ratio\":\"9.8049309461775\",\"price_to_cash_flow\":\"18.017639858897\",\"price_to_sales\":\"2.0257976071785\",\"dividend_yield\":1.9686250384497,\"earning_yield(EPS_to_LTP)\":0.031926459307569974,\"earning_yield(EBIT_to_EV)\":0.09877615335650375,\"PE_ratio_5_yrs\":19.493901231904744}",
+        "general": "{\"symbol\":\"MLBL\",\"LTP\":\"325.1\",\"market_cap\":13560956629.391857,\"paid_up\":4171318557.1799,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1528.212566486342,\"book_value_per_share\":\"154.03636576594\",\"earning_per_share\":\"10.379291920891\",\"sales_per_share\":\"160.48\",\"cash_flow_per_share\":\"18.017639858897\",\"expected_DPS\":1.6388563487277121,\"reserve_surplus\":2254028909,\"5_Yr_Avg._Dividend\":13.01452,\"mutual_fund_holding\":\"1.21%\",\"one_week_float_turnover\":0.6409415612647306,\"payout_ratio\":61.661239020730996,\"52_week_high_low\":\"288.8-370.5\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"MLBL\",\"alpha\":\"0.083609015500073\",\"sharpe_ratio\":\"0.1647130838372\",\"correlation_1_year\":\"0.82534659623839\",\"correlation_3_year\":\"0.65323342017188\",\"RSI_14\":\"46.111402633522\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.2687074829932\",\"MFI_14\":\"52.346160960206\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.4443084455324359,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":37.610619469027,\"r_volume\":34.30970940265434}",
+        "risk": "{\"symbol\":\"MLBL\",\"three_month_beta\":\"1.2487193204746\",\"one_year_beta\":\"1.2834532735762\",\"three_year_beta\":\"1.2168890754649\",\"debt_to_common_equity\":\"8.9211154386263\",\"EPS_trend\":\"-2.2222936639649\",\"ROE_trend\":\"-0.015142093816282\",\"altman_z_score\":\"2.0242725733372\",\"current_ratio\":\"1.0853570421777\",\"equity_ratio\":0.1007951178520423}",
+        "health": "{\"symbol\":\"MLBL\",\"piotroski_f_score\":\"7\",\"g_score\":\"4\",\"magic_formula_rank\":\"2\"}",
+        "regulator_others": "{\"symbol\":\"MLBL\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"MLBL\",\"TotalAssets\":\"63746614.379\",\"DepositsFromCustomers\":\"53040339.423\",\"LoansAndAdvancesToCustomers\":\"40508710.892\",\"NetProfit\":\"278036.822\",\"InterestIncome\":\"3335143.531\"}",
+        "profitability": "{\"symbol\":\"MLBL\",\"gross_profit_margin\":\"37.84096759781\",\"operating_margin\":24.91,\"pretax_profit_margin\":\"25.124071733711\",\"net_margin\":\"18.0850935243\",\"net_margin_(quarterly)(TTM)\":\"6.4676544870956\",\"ROE\":6.72,\"ROA\":0.71,\"ROIC\":\"8.1558334115262\",\"ROCE\":19.51,\"asset_turnover\":0.11006404195264477}",
+        "lock_in_period": "{\"symbol\":\"MLBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "MLBL",
+          "full_name": "Mahalaxmi Bikas Bank Ltd."
+        }
+      },
+      {
+        "id": 230,
+        "sector": "DEVBANK",
+        "symbol": "SINDU",
+        "realtive_value": "{\"symbol\":\"SINDU\",\"PE_ratio\":\"34.548232248933\",\"EV_to_EBIT\":13.44,\"PB_ratio\":\"3.0708808529709\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"-34.194214626782\",\"price_to_sales\":\"3.3180671090756\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.028945041031177465,\"earning_yield(EBIT_to_EV)\":0.0743956498141402,\"PE_ratio_5_yrs\":56.72598078672336}",
+        "general": "{\"symbol\":\"SINDU\",\"LTP\":\"355\",\"market_cap\":1978969037.85,\"paid_up\":557456067,\"total_float\":49,\"size\":\"Small-cap\",\"asset_per_share\":1084.7948523627783,\"book_value_per_share\":\"115.60201030156\",\"earning_per_share\":\"10.275489566068\",\"sales_per_share\":\"106.99\",\"cash_flow_per_share\":\"-34.194214626782\",\"expected_DPS\":-5.693520956872105,\"reserve_surplus\":86974355,\"5_Yr_Avg._Dividend\":11.418040000000001,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":5.221606685878283,\"payout_ratio\":0,\"52_week_high_low\":\"236-373\",\"52_week_high_percent\":0.8686131386861314,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SINDU\",\"alpha\":\"1.0920542505204\",\"sharpe_ratio\":\"1.9180340042413\",\"correlation_1_year\":\"0.66696948833254\",\"correlation_3_year\":\"0.58613273004467\",\"RSI_14\":\"61.531430457635\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.59677419354839\",\"MFI_14\":\"57.931811868115\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.8686131386861314,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":88.938053097345,\"r_volume\":71.72572427588364}",
+        "risk": "{\"symbol\":\"SINDU\",\"three_month_beta\":\"0.8953475647415\",\"one_year_beta\":\"1.1877141079421\",\"three_year_beta\":\"1.1482983214595\",\"debt_to_common_equity\":\"8.3838753297835\",\"EPS_trend\":\"1.6175651380972\",\"ROE_trend\":\"0.014763705624322\",\"altman_z_score\":\"1.9646943293075\",\"current_ratio\":\"1.0678813854562\",\"equity_ratio\":0.1065657809940187}",
+        "health": "{\"symbol\":\"SINDU\",\"piotroski_f_score\":\"2\",\"g_score\":\"3\",\"magic_formula_rank\":\"7\"}",
+        "regulator_others": "{\"symbol\":\"SINDU\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"SINDU\",\"TotalAssets\":\"6047254.719\",\"DepositsFromCustomers\":\"4948818.238\",\"LoansAndAdvancesToCustomers\":\"3600141.419\",\"NetProfit\":\"25163.074\",\"InterestIncome\":\"285700.638\"}",
+        "profitability": "{\"symbol\":\"SINDU\",\"gross_profit_margin\":\"37.444910475369\",\"operating_margin\":16.62,\"pretax_profit_margin\":\"16.620102435794\",\"net_margin\":\"10.363934847693\",\"net_margin_(quarterly)(TTM)\":\"9.6041588616394\",\"ROE\":9.29,\"ROA\":1.02,\"ROIC\":\"7.2956893149656\",\"ROCE\":11.55,\"asset_turnover\":0.10568962066322295}",
+        "lock_in_period": "{\"symbol\":\"SINDU\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SINDU",
+          "full_name": "Sindhu Bikash Bank Ltd"
+        }
+      },
+      {
+        "id": 231,
+        "sector": "DEVBANK",
+        "symbol": "SADBL",
+        "realtive_value": "{\"symbol\":\"SADBL\",\"PE_ratio\":\"37.154145809103\",\"EV_to_EBIT\":11.91,\"PB_ratio\":\"2.2690193048876\",\"PEG_ratio\":\"1.6035173448341\",\"price_to_cash_flow\":\"65.871880799382\",\"price_to_sales\":\"1.4906709011513\",\"dividend_yield\":1.6644474034621,\"earning_yield(EPS_to_LTP)\":0.026914896796120174,\"earning_yield(EBIT_to_EV)\":0.0839961976265558,\"PE_ratio_5_yrs\":23.93292282438062}",
+        "general": "{\"symbol\":\"SADBL\",\"LTP\":\"300.4\",\"market_cap\":10306284735.224506,\"paid_up\":3430853773.377,\"total_float\":49,\"size\":\"Mid-cap\",\"asset_per_share\":1730.982916405228,\"book_value_per_share\":\"132.39199831968\",\"earning_per_share\":\"8.0852349975545\",\"sales_per_share\":\"201.52\",\"cash_flow_per_share\":\"65.871880799382\",\"expected_DPS\":-6.227521460050354,\"reserve_surplus\":1111204570,\"5_Yr_Avg._Dividend\":8.2071,\"mutual_fund_holding\":\"0.6%\",\"one_week_float_turnover\":1.1007255980226232,\"payout_ratio\":61.841121519811004,\"52_week_high_low\":\"268-347\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SADBL\",\"alpha\":\"0.04377381799786\",\"sharpe_ratio\":\"0.043557870832502\",\"correlation_1_year\":\"0.82375716341051\",\"correlation_3_year\":\"0.68951333143887\",\"RSI_14\":\"46.675701081746\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.30322580645161\",\"MFI_14\":\"57.659219073618\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.4101265822784807,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":35.840707964602,\"r_volume\":61.03983197815882}",
+        "risk": "{\"symbol\":\"SADBL\",\"three_month_beta\":\"1.2997720266918\",\"one_year_beta\":\"1.2707349270484\",\"three_year_beta\":\"1.1446919555579\",\"debt_to_common_equity\":\"12.074679272602\",\"EPS_trend\":\"-1.6107877703457\",\"ROE_trend\":\"-0.014241067881178\",\"altman_z_score\":\"1.9001440044067\",\"current_ratio\":\"1.0629162500456\",\"equity_ratio\":0.07648371174110984}",
+        "health": "{\"symbol\":\"SADBL\",\"piotroski_f_score\":\"6\",\"g_score\":\"6\",\"magic_formula_rank\":\"5\"}",
+        "regulator_others": "{\"symbol\":\"SADBL\",\"CreditToDepositRatio\":\"0.8328\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0.0298\",\"C.TotalCapitalFund\":\"0.1159\",\"Liquidity(Crr)\":\"0.2536\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0.0139\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0.1126\",\"Wt.AverageInterestRateSpread\":\"0.0459\",\"TotalNo.OfEmployees\":\"821\",\"No.OfBranches\":\"112\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"0.0861\"}",
+        "market_share": "{\"symbol\":\"SADBL\",\"TotalAssets\":\"59387492.704\",\"DepositsFromCustomers\":\"51857535.588\",\"LoansAndAdvancesToCustomers\":\"41634436.637\",\"NetProfit\":\"100233.767\",\"InterestIncome\":\"3347933.143\"}",
+        "profitability": "{\"symbol\":\"SADBL\",\"gross_profit_margin\":\"30.500880624105\",\"operating_margin\":13.37,\"pretax_profit_margin\":\"13.355451582743\",\"net_margin\":\"9.5073658074403\",\"net_margin_(quarterly)(TTM)\":\"4.0121253461465\",\"ROE\":6.22,\"ROA\":0.47,\"ROIC\":\"7.4501175934645\",\"ROCE\":15.88,\"asset_turnover\":0.11828699539894352}",
+        "lock_in_period": "{\"symbol\":\"SADBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SADBL",
+          "full_name": "Shangrila Development Bank Ltd."
+        }
+      },
+      {
+        "id": 232,
+        "sector": "DEVBANK",
+        "symbol": "SAPDBL",
+        "realtive_value": "{\"symbol\":\"SAPDBL\",\"PE_ratio\":\"-34.264274510476\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"4.8112911878266\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"4.3074691805656\",\"dividend_yield\":2.020202020202,\"earning_yield(EPS_to_LTP)\":-0.029184916776634345,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":-29.23744828816678}",
+        "general": "{\"symbol\":\"SAPDBL\",\"LTP\":\"297\",\"market_cap\":2477985137.1,\"paid_up\":834338430,\"total_float\":43,\"size\":\"Small-cap\",\"asset_per_share\":758.2464703202033,\"book_value_per_share\":\"61.729791111264\",\"earning_per_share\":\"-8.6679202826604\",\"sales_per_share\":\"68.95\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":-63.20255978140669,\"reserve_surplus\":-319303065,\"5_Yr_Avg._Dividend\":7.66,\"mutual_fund_holding\":\"0%\",\"one_week_float_turnover\":17.821547920474824,\"payout_ratio\":-69.220756586821,\"52_week_high_low\":\"218-317.5\",\"52_week_high_percent\":0.7939698492462312,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SAPDBL\",\"alpha\":\"0.7032440628364\",\"sharpe_ratio\":\"1.1256935669343\",\"correlation_1_year\":\"0.65334150804789\",\"correlation_3_year\":\"0.6600397835896\",\"RSI_14\":\"60.433742096441\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.49904030710173\",\"MFI_14\":\"58.373763941161\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.7939698492462312,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":82.74336283185801,\"r_volume\":202.34100773067158}",
+        "risk": "{\"symbol\":\"SAPDBL\",\"three_month_beta\":\"1.3425921530862\",\"one_year_beta\":\"1.3198858778785\",\"three_year_beta\":\"1.4296829179052\",\"debt_to_common_equity\":\"11.283315027471\",\"EPS_trend\":\"3.0229368674771\",\"ROE_trend\":\"0.020089552075079\",\"altman_z_score\":null,\"current_ratio\":\"1.0534901959811\",\"equity_ratio\":0.08141124709176632}",
+        "health": "{\"symbol\":\"SAPDBL\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"SAPDBL\",\"CreditToDepositRatio\":\"76.94\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"1.71\",\"C.TotalCapitalFund\":\"32.21\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"3.92\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"7.41\",\"TotalNo.OfEmployees\":\"183\",\"No.OfBranches\":\"32\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"30.49\"}",
+        "market_share": "{\"symbol\":\"SAPDBL\",\"TotalAssets\":\"6326341.696\",\"DepositsFromCustomers\":\"5237751.123\",\"LoansAndAdvancesToCustomers\":\"3769630.313\",\"NetProfit\":\"-119186.186\",\"InterestIncome\":\"274937.502\"}",
+        "profitability": "{\"symbol\":\"SAPDBL\",\"gross_profit_margin\":\"49.611366873802\",\"operating_margin\":9.32,\"pretax_profit_margin\":\"9.31859481454\",\"net_margin\":\"6.7554177674465\",\"net_margin_(quarterly)(TTM)\":\"-12.571312955273\",\"ROE\":-13.07,\"ROA\":-1.21,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.0965603433504918}",
+        "lock_in_period": "{\"symbol\":\"SAPDBL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SAPDBL",
+          "full_name": "Saptakoshi Development Bank Ltd"
+        }
+      },
+      {
+        "id": 233,
+        "sector": "DEVBANK",
+        "symbol": "SHINE",
+        "realtive_value": "{\"symbol\":\"SHINE\",\"PE_ratio\":\"24.196346166755\",\"EV_to_EBIT\":17.13,\"PB_ratio\":\"2.6845651155423\",\"PEG_ratio\":\"1.3177989061121\",\"price_to_cash_flow\":\"9.2427017657399\",\"price_to_sales\":\"2.4365183246073\",\"dividend_yield\":2.9680365296804,\"earning_yield(EPS_to_LTP)\":0.041328554034904645,\"earning_yield(EBIT_to_EV)\":0.05836305649982608,\"PE_ratio_5_yrs\":25.70605376601332}",
+        "general": "{\"symbol\":\"SHINE\",\"LTP\":\"372.3\",\"market_cap\":17623531406.031685,\"paid_up\":4733690949.7802,\"total_float\":49,\"size\":\"High-cap\",\"asset_per_share\":1447.384641115647,\"book_value_per_share\":\"138.68167989093\",\"earning_per_share\":\"15.386620667195\",\"sales_per_share\":\"152.80\",\"cash_flow_per_share\":\"9.2427017657399\",\"expected_DPS\":1.4252428541650504,\"reserve_surplus\":1831071179,\"5_Yr_Avg._Dividend\":12.91,\"mutual_fund_holding\":\"1.94%\",\"one_week_float_turnover\":0.7434850751276844,\"payout_ratio\":71.815639307721,\"52_week_high_low\":\"303-435\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SHINE\",\"alpha\":\"0.16523507846661\",\"sharpe_ratio\":\"0.37103944705126\",\"correlation_1_year\":\"0.74797946136323\",\"correlation_3_year\":\"0.73055516538696\",\"RSI_14\":\"45.513614837072\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.32539682539683\",\"MFI_14\":\"39.39550381305\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.5250000000000001,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":27.433628318584002,\"r_volume\":54.47956406755162}",
+        "risk": "{\"symbol\":\"SHINE\",\"three_month_beta\":\"1.1688688518376\",\"one_year_beta\":\"1.1481429787057\",\"three_year_beta\":\"1.12577048471\",\"debt_to_common_equity\":\"9.4367400392008\",\"EPS_trend\":\"0.1240995253455\",\"ROE_trend\":\"-0.0029278362980392\",\"altman_z_score\":\"2.0829067216301\",\"current_ratio\":\"1.090794425174\",\"equity_ratio\":0.09581535961583215}",
+        "health": "{\"symbol\":\"SHINE\",\"piotroski_f_score\":\"5\",\"g_score\":\"4\",\"magic_formula_rank\":\"8\"}",
+        "regulator_others": "{\"symbol\":\"SHINE\",\"CreditToDepositRatio\":\"81.47\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"0\",\"C.TotalCapitalFund\":\"0\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"1.81\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"11.36\",\"Wt.AverageInterestRateSpread\":\"4.6\",\"TotalNo.OfEmployees\":\"746\",\"No.OfBranches\":\"88\",\"No.OfAtms\":\"16\",\"A.CoreCapital\":\"0\"}",
+        "market_share": "{\"symbol\":\"SHINE\",\"TotalAssets\":\"68514715.765\",\"DepositsFromCustomers\":\"60624394.515\",\"LoansAndAdvancesToCustomers\":\"50415682.631\",\"NetProfit\":\"371207.896\",\"InterestIncome\":\"3587935.711\"}",
+        "profitability": "{\"symbol\":\"SHINE\",\"gross_profit_margin\":\"30.342276416075\",\"operating_margin\":16.32,\"pretax_profit_margin\":\"16.280219204593\",\"net_margin\":\"10.863138627997\",\"net_margin_(quarterly)(TTM)\":\"10.069777923557\",\"ROE\":11.8,\"ROA\":1.16,\"ROIC\":\"9.2673821153492\",\"ROCE\":16.26,\"asset_turnover\":0.11535073741073178}",
+        "lock_in_period": "{\"symbol\":\"SHINE\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SHINE",
+          "full_name": "Shine Resunga Development Bank Ltd."
+        }
+      },
+      {
+        "id": 234,
+        "sector": "DEVBANK",
+        "symbol": "NABBC",
+        "realtive_value": "{\"symbol\":\"NABBC\",\"PE_ratio\":\"-14.536579524366\",\"EV_to_EBIT\":-73.43,\"PB_ratio\":\"27.336403251104\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"-21.187375508444\",\"price_to_sales\":\"17.95415959253\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":-0.06879197395259574,\"earning_yield(EBIT_to_EV)\":-0.01361896295260209,\"PE_ratio_5_yrs\":-29.967004168569396}",
+        "general": "{\"symbol\":\"NABBC\",\"LTP\":\"423\",\"market_cap\":1110237948,\"paid_up\":262467600,\"total_float\":29,\"size\":\"Small-cap\",\"asset_per_share\":232.36929281938038,\"book_value_per_share\":\"15.473871822655\",\"earning_per_share\":\"-29.099004981948\",\"sales_per_share\":\"23.56\",\"cash_flow_per_share\":\"-21.187375508444\",\"expected_DPS\":-143.14348094774365,\"reserve_surplus\":-221853699.00000003,\"5_Yr_Avg._Dividend\":\"-\",\"mutual_fund_holding\":\"1.84%\",\"one_week_float_turnover\":13.629662585348468,\"payout_ratio\":0,\"52_week_high_low\":\"349-455\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"NABBC\",\"alpha\":\"0.18549383402732\",\"sharpe_ratio\":\"0.40933470448096\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"53.381362328655\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"1\",\"SMA_200\":\"1\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.50819672131148\",\"MFI_14\":\"68.382413784884\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.6981132075471698,\"volume_trend\":\"UP\",\"break_out\":\"3\",\"relative_strength\":63.716814159292,\"r_volume\":99.43665825177521}",
+        "risk": "{\"symbol\":\"NABBC\",\"three_month_beta\":\"0.8906533341313\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"14.0168811663\",\"EPS_trend\":\"-2.9698747578749\",\"ROE_trend\":\"-0.10873141472915\",\"altman_z_score\":\"6.5439701442846\",\"current_ratio\":\"1.0048807170753\",\"equity_ratio\":0.06659172567901483}",
+        "health": "{\"symbol\":\"NABBC\",\"piotroski_f_score\":\"0\",\"g_score\":\"2\",\"magic_formula_rank\":\"14\"}",
+        "regulator_others": "{\"symbol\":\"NABBC\",\"CreditToDepositRatio\":\"0\",\"AdequacyOfCapitalFundOnRiskWeightedAssets\":\"0\",\"B.SupplementaryCapital\":\"4593306000\",\"C.TotalCapitalFund\":\"124786217000\",\"Liquidity(Crr)\":\"0\",\"NonPerformingLoans(Npl)ToTotalLoans\":\"0\",\"TotalLoanLossProvisionToTotalNpl\":\"0\",\"CostOfFunds\":\"0\",\"BaseRate\":\"0\",\"Wt.AverageInterestRateSpread\":\"0\",\"TotalNo.OfEmployees\":\"0\",\"No.OfBranches\":\"0\",\"No.OfAtms\":\"0\",\"A.CoreCapital\":\"120192911000\"}",
+        "market_share": "{\"symbol\":\"NABBC\",\"TotalAssets\":\"609894.106\",\"DepositsFromCustomers\":\"525253.613\",\"LoansAndAdvancesToCustomers\":\"347142.297\",\"NetProfit\":\"-63862.293\",\"InterestIncome\":\"26356.759\"}",
+        "profitability": "{\"symbol\":\"NABBC\",\"gross_profit_margin\":\"42.22670497048\",\"operating_margin\":-296.48,\"pretax_profit_margin\":\"-296.48472883746\",\"net_margin\":\"-238.81866141627\",\"net_margin_(quarterly)(TTM)\":\"-123.51020790301\",\"ROE\":-80.67,\"ROA\":-10.62,\"ROIC\":\"-17.157550197444\",\"ROCE\":-17.16,\"asset_turnover\":0.08600961676869247}",
+        "lock_in_period": "{\"symbol\":\"NABBC\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "NABBC",
+          "full_name": "Narayani Development Bank Limited"
+        }
+      }
+    ]
+  }
+}

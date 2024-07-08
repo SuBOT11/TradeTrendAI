@@ -1,0 +1,222 @@
+{
+  "LIFEINSU": {
+    "data": [
+      {
+        "id": 185,
+        "sector": "LIFEINSU",
+        "symbol": "ALICL",
+        "realtive_value": "{\"symbol\":\"ALICL\",\"PE_ratio\":\"91.245927775991\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"4.9511943119881\",\"PEG_ratio\":\"9.4183982316577\",\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"2.6201506855726\",\"dividend_yield\":1.3841757456689001,\"earning_yield(EPS_to_LTP)\":0.010959393195661369,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":88.17953700202203}",
+        "general": "{\"symbol\":\"ALICL\",\"LTP\":\"559.9\",\"market_cap\":19035683479.500565,\"paid_up\":3399836306.3941,\"total_float\":49,\"size\":\"High-cap\",\"asset_per_share\":1369.3111260517123,\"book_value_per_share\":\"113.08382679394\",\"earning_per_share\":\"6.1361642502508\",\"sales_per_share\":\"213.69\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":448195781,\"5_Yr_Avg._Dividend\":12.71496,\"mutual_fund_holding\":\"1.8%\",\"one_week_float_turnover\":0.3219242626063941,\"payout_ratio\":126.30040011857999,\"52_week_high_low\":\"528-775\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.1291497975708501}",
+        "technical": "{\"symbol\":\"ALICL\",\"alpha\":\"-0.24966086761724\",\"sharpe_ratio\":\"-1.0512436490401\",\"correlation_1_year\":\"0.7981290144924\",\"correlation_3_year\":\"0.80709114919619\",\"RSI_14\":\"37.851078780269\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"0\",\"stochastic_14\":\"0.22677165354331\",\"MFI_14\":\"62.057202921571\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.1291497975708501,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":9.2920353982301,\"r_volume\":28.86454607630986}",
+        "risk": "{\"symbol\":\"ALICL\",\"three_month_beta\":\"1.0867118670164\",\"one_year_beta\":\"1.2079730583827\",\"three_year_beta\":\"1.3360595777161\",\"debt_to_common_equity\":\"11.108814892845\",\"EPS_trend\":\"0.27435159105919\",\"ROE_trend\":\"0.00094500027628034\",\"altman_z_score\":null,\"current_ratio\":\"0.26185468174047\",\"equity_ratio\":0.08258446510812655}",
+        "health": "{\"symbol\":\"ALICL\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"ALICL\",\"NumberOfExistingPolicies\":\"0\",\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":\"0\",\"NumberOfBranches\":\"0\",\"SolvencyMargin\":\"0\",\"ReturnOnInvestments\":\"0\"}",
+        "market_share": "{\"symbol\":\"ALICL\",\"TotalAssets\":\"46554336.811\",\"NetProfit\":\"159892.739\",\"GrossPremium\":\"3672397.637\"}",
+        "profitability": "{\"symbol\":\"ALICL\",\"gross_profit_margin\":\"97.458207582065\",\"operating_margin\":9.29,\"pretax_profit_margin\":\"9.1964516484745\",\"net_margin\":\"5.8358979118563\",\"net_margin_(quarterly)(TTM)\":\"2.8715261595071\",\"ROE\":5.68,\"ROA\":0.48,\"ROIC\":\"33.67467475609\",\"ROCE\":4.72,\"asset_turnover\":0.16617383665828803}",
+        "lock_in_period": "{\"symbol\":\"ALICL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "ALICL",
+          "full_name": "Asian Life Insurance Co. Limited"
+        }
+      },
+      {
+        "id": 186,
+        "sector": "LIFEINSU",
+        "symbol": "ILI",
+        "realtive_value": "{\"symbol\":\"ILI\",\"PE_ratio\":\"45.414779443294\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"3.0066759784964\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"4.0250717414288\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.02201926360225141,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"ILI\",\"LTP\":\"533\",\"market_cap\":21320000000,\"paid_up\":4000000000,\"total_float\":30,\"size\":\"High-cap\",\"asset_per_share\":398.304907075,\"book_value_per_share\":\"177.27217825\",\"earning_per_share\":\"11.7362675\",\"sales_per_share\":\"132.42\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":2383678835,\"5_Yr_Avg._Dividend\":\"-\",\"mutual_fund_holding\":\"0.62%\",\"one_week_float_turnover\":0.8855999999999999,\"payout_ratio\":0,\"52_week_high_low\":\"452-616\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"ILI\",\"alpha\":\"-0.065446494478949\",\"sharpe_ratio\":\"-0.26151066206987\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"47.703682062938\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":null,\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.37543252595156\",\"MFI_14\":\"45.684251927229\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.49390243902439024,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":10.176991150442,\"r_volume\":51.30658655557454}",
+        "risk": "{\"symbol\":\"ILI\",\"three_month_beta\":\"1.1581484735538\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"1.246855151959\",\"EPS_trend\":\"na\",\"ROE_trend\":\"na\",\"altman_z_score\":null,\"current_ratio\":\"0.5057689377344\",\"equity_ratio\":0.44506651832843225}",
+        "health": "{\"symbol\":\"ILI\",\"piotroski_f_score\":\"3\",\"g_score\":\"4\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"ILI\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"ILI\",\"TotalAssets\":\"15932196.283\",\"NetProfit\":\"234725.352\",\"GrossPremium\":\"2108294.843\"}",
+        "profitability": "{\"symbol\":\"ILI\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"8.8629115692494\",\"ROE\":6.62,\"ROA\":2.95,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.33245887176580025}",
+        "lock_in_period": "{\"symbol\":\"ILI\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "ILI",
+          "full_name": "IME Life Insurance Company Limited"
+        }
+      },
+      {
+        "id": 187,
+        "sector": "LIFEINSU",
+        "symbol": "LICN",
+        "realtive_value": "{\"symbol\":\"LICN\",\"PE_ratio\":\"186.37716903475\",\"EV_to_EBIT\":6.41,\"PB_ratio\":\"6.0552976559615\",\"PEG_ratio\":\"139.13849060344\",\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"2.0315752685721\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.005365464048944578,\"earning_yield(EBIT_to_EV)\":0.15598181151374776,\"PE_ratio_5_yrs\":369.6256487908166}",
+        "general": "{\"symbol\":\"LICN\",\"LTP\":\"1337\",\"market_cap\":35473284000,\"paid_up\":2653200000,\"total_float\":30,\"size\":\"High-cap\",\"asset_per_share\":4447.624588798432,\"book_value_per_share\":\"220.79839439168\",\"earning_per_share\":\"7.1736254334389\",\"sales_per_share\":\"658.11\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":2136368202,\"5_Yr_Avg._Dividend\":28.0591863138,\"mutual_fund_holding\":\"1.52%\",\"one_week_float_turnover\":0.08402432283029299,\"payout_ratio\":0,\"52_week_high_low\":\"1261-1742.4\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.15787287079351886}",
+        "technical": "{\"symbol\":\"LICN\",\"alpha\":\"-0.16945962576806\",\"sharpe_ratio\":\"-0.85932513691382\",\"correlation_1_year\":\"0.70727958868196\",\"correlation_3_year\":\"0.72950419814165\",\"RSI_14\":\"43.858465475792\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"0\",\"stochastic_14\":\"0.176\",\"MFI_14\":\"55.098665865627\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.15787287079351886,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":16.814159292035,\"r_volume\":73.51682655082197}",
+        "risk": "{\"symbol\":\"LICN\",\"three_month_beta\":\"0.68086150269704\",\"one_year_beta\":\"0.98208166584982\",\"three_year_beta\":\"1.1554697699095\",\"debt_to_common_equity\":\"19.143373782459\",\"EPS_trend\":\"3.0966701341776\",\"ROE_trend\":\"0.020977340854715\",\"altman_z_score\":null,\"current_ratio\":\"0.10587657833727\",\"equity_ratio\":0.049644116777110774}",
+        "health": "{\"symbol\":\"LICN\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":\"2\"}",
+        "regulator_others": "{\"symbol\":\"LICN\",\"NumberOfExistingPolicies\":\"764378\",\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":\"246\",\"NumberOfBranches\":\"78\",\"SolvencyMargin\":\"3.5\",\"ReturnOnInvestments\":\"9.62\"}",
+        "market_share": "{\"symbol\":\"LICN\",\"TotalAssets\":\"118004375.59\",\"NetProfit\":\"59730.196\",\"GrossPremium\":\"4510597.627\"}",
+        "profitability": "{\"symbol\":\"LICN\",\"gross_profit_margin\":\"99.429255923326\",\"operating_margin\":10.62,\"pretax_profit_margin\":\"10.619256985163\",\"net_margin\":\"4.8144329589719\",\"net_margin_(quarterly)(TTM)\":\"1.0900344066249\",\"ROE\":4.47,\"ROA\":0.16,\"ROIC\":\"84.71486254828\",\"ROCE\":7.3,\"asset_turnover\":0.1509699118870879}",
+        "lock_in_period": "{\"symbol\":\"LICN\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "LICN",
+          "full_name": "Life Insurance Co. Nepal"
+        }
+      },
+      {
+        "id": 188,
+        "sector": "LIFEINSU",
+        "symbol": "NLICL",
+        "realtive_value": "{\"symbol\":\"NLICL\",\"PE_ratio\":\"71.083622138019\",\"EV_to_EBIT\":5.39,\"PB_ratio\":\"4.209074464778\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"1.6123424598001\",\"dividend_yield\":2.6055705300988,\"earning_yield(EPS_to_LTP)\":0.014067938154000538,\"earning_yield(EBIT_to_EV)\":0.18554489156785173,\"PE_ratio_5_yrs\":70.11445365848353}",
+        "general": "{\"symbol\":\"NLICL\",\"LTP\":\"556.5\",\"market_cap\":27889923576.926178,\"paid_up\":5011666410.9481,\"total_float\":35,\"size\":\"High-cap\",\"asset_per_share\":1534.193508311626,\"book_value_per_share\":\"132.21433943658\",\"earning_per_share\":\"7.8288075827013\",\"sales_per_share\":\"345.15\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":629726796,\"5_Yr_Avg._Dividend\":15.0638,\"mutual_fund_holding\":\"3.01%\",\"one_week_float_turnover\":0.29365767092943224,\"payout_ratio\":185.2133910155,\"52_week_high_low\":\"527.1-678\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.19483101391650087}",
+        "technical": "{\"symbol\":\"NLICL\",\"alpha\":\"-0.13393472904614\",\"sharpe_ratio\":\"-0.59945024694564\",\"correlation_1_year\":\"0.82167309933685\",\"correlation_3_year\":\"0.85556526393972\",\"RSI_14\":\"42.224766500006\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"0\",\"stochastic_14\":\"0.35160427807487\",\"MFI_14\":\"56.556140624941\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.19483101391650087,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":16.371681415929,\"r_volume\":46.9542036126282}",
+        "risk": "{\"symbol\":\"NLICL\",\"three_month_beta\":\"1.0281947012316\",\"one_year_beta\":\"1.1175001917398\",\"three_year_beta\":\"1.3822356329326\",\"debt_to_common_equity\":\"11.178311618464\",\"EPS_trend\":\"-0.54262635957957\",\"ROE_trend\":\"-0.0083804550528728\",\"altman_z_score\":null,\"current_ratio\":\"0.11093467178542\",\"equity_ratio\":0.08416398809836806}",
+        "health": "{\"symbol\":\"NLICL\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":\"3\"}",
+        "regulator_others": "{\"symbol\":\"NLICL\",\"NumberOfExistingPolicies\":\"0\",\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":\"0\",\"NumberOfBranches\":\"0\",\"SolvencyMargin\":\"0\",\"ReturnOnInvestments\":\"0\"}",
+        "market_share": "{\"symbol\":\"NLICL\",\"TotalAssets\":\"76888660.735\",\"NetProfit\":\"130258.177\",\"GrossPremium\":\"8567899.642\"}",
+        "profitability": "{\"symbol\":\"NLICL\",\"gross_profit_margin\":\"97.973575458454\",\"operating_margin\":8.4,\"pretax_profit_margin\":\"8.1720951011758\",\"net_margin\":\"5.1115803790562\",\"net_margin_(quarterly)(TTM)\":\"2.2682334007537\",\"ROE\":6.62,\"ROA\":0.54,\"ROIC\":\"73.687413675997\",\"ROCE\":9.13,\"asset_turnover\":0.2394953448077605}",
+        "lock_in_period": "{\"symbol\":\"NLICL\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "NLICL",
+          "full_name": "National Life Insurance Co. Ltd."
+        }
+      },
+      {
+        "id": 189,
+        "sector": "LIFEINSU",
+        "symbol": "NLIC",
+        "realtive_value": "{\"symbol\":\"NLIC\",\"PE_ratio\":\"74.019089453343\",\"EV_to_EBIT\":2.85,\"PB_ratio\":\"4.6637833439181\",\"PEG_ratio\":\"8.8763409397996\",\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"1.2715654952077\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.013510028391126631,\"earning_yield(EBIT_to_EV)\":0.35123328639925605,\"PE_ratio_5_yrs\":171.81706080261895}",
+        "general": "{\"symbol\":\"NLIC\",\"LTP\":\"597\",\"market_cap\":49001560236.1584,\"paid_up\":8207966538.719999,\"total_float\":49,\"size\":\"High-cap\",\"asset_per_share\":2400.7956272045208,\"book_value_per_share\":\"128.00766158628\",\"earning_per_share\":\"8.0654869495026\",\"sales_per_share\":\"469.50\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":1075636451,\"5_Yr_Avg._Dividend\":40.10526,\"mutual_fund_holding\":\"0.93%\",\"one_week_float_turnover\":0.3382627069072839,\"payout_ratio\":0,\"52_week_high_low\":\"588.9-799\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.03855306996668264}",
+        "technical": "{\"symbol\":\"NLIC\",\"alpha\":\"-0.27336479286183\",\"sharpe_ratio\":\"-1.3841234636002\",\"correlation_1_year\":\"0.81313089676922\",\"correlation_3_year\":\"0.78302876987261\",\"RSI_14\":\"41.275281920881\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"0\",\"stochastic_14\":\"0.22641509433962\",\"MFI_14\":\"31.381451484491\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.03855306996668264,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":5.3097345132743,\"r_volume\":81.77914604526222}",
+        "risk": "{\"symbol\":\"NLIC\",\"three_month_beta\":\"0.97032959732262\",\"one_year_beta\":\"1.0496210368513\",\"three_year_beta\":\"1.2615027305639\",\"debt_to_common_equity\":\"17.755093229615\",\"EPS_trend\":\"2.1667628780043\",\"ROE_trend\":\"0.017838025938125\",\"altman_z_score\":null,\"current_ratio\":\"0.082004284604253\",\"equity_ratio\":0.05331884985276774}",
+        "health": "{\"symbol\":\"NLIC\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":\"1\"}",
+        "regulator_others": "{\"symbol\":\"NLIC\",\"NumberOfExistingPolicies\":\"1381433\",\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":\"634\",\"NumberOfBranches\":\"199\",\"SolvencyMargin\":\"2.32\",\"ReturnOnInvestments\":\"0.0922\"}",
+        "market_share": "{\"symbol\":\"NLIC\",\"TotalAssets\":\"197056501.744\",\"NetProfit\":\"427737.279\",\"GrossPremium\":\"20000627.007\"}",
+        "profitability": "{\"symbol\":\"NLIC\",\"gross_profit_margin\":\"98.711229804627\",\"operating_margin\":9.63,\"pretax_profit_margin\":\"9.6281512994385\",\"net_margin\":\"6.0756201954112\",\"net_margin_(quarterly)(TTM)\":\"1.7178885941433\",\"ROE\":6.68,\"ROA\":0.37,\"ROIC\":\"83.015695056009\",\"ROCE\":9.47,\"asset_turnover\":0.21333848910198155}",
+        "lock_in_period": "{\"symbol\":\"NLIC\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "NLIC",
+          "full_name": "Nepal Life Insurance Co. Ltd."
+        }
+      },
+      {
+        "id": 190,
+        "sector": "LIFEINSU",
+        "symbol": "CLI",
+        "realtive_value": "{\"symbol\":\"CLI\",\"PE_ratio\":\"70.848549450311\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"2.5795838581864\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"7.10635579687\",\"dividend_yield\":1.123595505618,\"earning_yield(EPS_to_LTP)\":0.014114615016943147,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"CLI\",\"LTP\":\"445\",\"market_cap\":17521875000,\"paid_up\":3937500000,\"total_float\":30,\"size\":\"High-cap\",\"asset_per_share\":490.9397689904762,\"book_value_per_share\":\"172.50844495238\",\"earning_per_share\":\"6.2810036825397\",\"sales_per_share\":\"62.62\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":2241631481,\"5_Yr_Avg._Dividend\":5.2632,\"mutual_fund_holding\":\"1.3%\",\"one_week_float_turnover\":1.3041439153439154,\"payout_ratio\":79.605111741923,\"52_week_high_low\":\"378-558\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"CLI\",\"alpha\":\"-\",\"sharpe_ratio\":\"-\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"44.45242594651\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":null,\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.25757575757576\",\"MFI_14\":\"50.533125826628\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.37222222222222223,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":0,\"r_volume\":58.00179081618126}",
+        "risk": "{\"symbol\":\"CLI\",\"three_month_beta\":\"-\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"1.8458883217248\",\"EPS_trend\":\"na\",\"ROE_trend\":\"na\",\"altman_z_score\":null,\"current_ratio\":\"0.17682541615705\",\"equity_ratio\":0.3513841327361024}",
+        "health": "{\"symbol\":\"CLI\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"CLI\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"CLI\",\"TotalAssets\":\"19330753.404\",\"NetProfit\":\"123657.261\",\"GrossPremium\":\"1232881.025\"}",
+        "profitability": "{\"symbol\":\"CLI\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"10.030347624624\",\"ROE\":3.64,\"ROA\":1.28,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.12755128830105011}",
+        "lock_in_period": "{\"symbol\":\"CLI\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "CLI",
+          "full_name": "Citizen Life Insurance Company Limited"
+        }
+      },
+      {
+        "id": 191,
+        "sector": "LIFEINSU",
+        "symbol": "SRLI",
+        "realtive_value": "{\"symbol\":\"SRLI\",\"PE_ratio\":\"42.148294734837\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"3.5293159761834\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"3.3230746134214\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.023725752282297268,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"SRLI\",\"LTP\":\"442.7\",\"market_cap\":18522568000,\"paid_up\":4184000000,\"total_float\":30,\"size\":\"High-cap\",\"asset_per_share\":433.9410306883365,\"book_value_per_share\":\"125.4350709847\",\"earning_per_share\":\"10.503390535373\",\"sales_per_share\":\"133.22\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":921532664,\"5_Yr_Avg._Dividend\":\"-\",\"mutual_fund_holding\":\"0.42%\",\"one_week_float_turnover\":0.5007727852135118,\"payout_ratio\":0,\"52_week_high_low\":\"390.1-598.2\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SRLI\",\"alpha\":\"-0.2566844108912\",\"sharpe_ratio\":\"-0.87909550243878\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"45.720427701414\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":null,\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.35043988269795\",\"MFI_14\":\"60.651814076831\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.25276309466602576,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":11.061946902655,\"r_volume\":83.18509682976135}",
+        "risk": "{\"symbol\":\"SRLI\",\"three_month_beta\":\"1.219939661697\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"2.612758392402\",\"EPS_trend\":\"na\",\"ROE_trend\":\"na\",\"altman_z_score\":null,\"current_ratio\":\"0.46525970473245\",\"equity_ratio\":0.2828879132794189}",
+        "health": "{\"symbol\":\"SRLI\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"SRLI\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"SRLI\",\"TotalAssets\":\"18156092.724\",\"NetProfit\":\"110850.848\",\"GrossPremium\":\"2786949.695\"}",
+        "profitability": "{\"symbol\":\"SRLI\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"7.8842445093627\",\"ROE\":8.37,\"ROA\":2.32,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.29397576611356874}",
+        "lock_in_period": "{\"symbol\":\"SRLI\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SRLI",
+          "full_name": "Sanima Reliance Life Insurance Limited"
+        }
+      },
+      {
+        "id": 192,
+        "sector": "LIFEINSU",
+        "symbol": "HLI",
+        "realtive_value": "{\"symbol\":\"HLI\",\"PE_ratio\":\"33.224823157738\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"3.2890228720229\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"1.8303285439736\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.0300979781066825,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"HLI\",\"LTP\":\"400\",\"market_cap\":32081534400,\"paid_up\":8020383600,\"total_float\":49,\"size\":\"High-cap\",\"asset_per_share\":844.3382020281424,\"book_value_per_share\":\"121.61666718784\",\"earning_per_share\":\"12.039191242673\",\"sales_per_share\":\"218.54\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":1301322799,\"5_Yr_Avg._Dividend\":\"-\",\"mutual_fund_holding\":\"1.09%\",\"one_week_float_turnover\":0.5426810513254794,\"payout_ratio\":0,\"52_week_high_low\":\"374-557.9\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.14138118542686245}",
+        "technical": "{\"symbol\":\"HLI\",\"alpha\":\"-0.14115505153828\",\"sharpe_ratio\":\"-0.53564953862084\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"46.44369092935\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":null,\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.34333958724203\",\"MFI_14\":\"41.223595562632\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.14138118542686245,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":11.946902654867001,\"r_volume\":55.45678813557286}",
+        "risk": "{\"symbol\":\"HLI\",\"three_month_beta\":\"1.2766741668646\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"5.9426191454832\",\"EPS_trend\":\"na\",\"ROE_trend\":\"na\",\"altman_z_score\":null,\"current_ratio\":\"0.20699591960159\",\"equity_ratio\":0.14403785940939587}",
+        "health": "{\"symbol\":\"HLI\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"HLI\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"HLI\",\"TotalAssets\":\"71477031.372\",\"NetProfit\":\"346062.82\",\"GrossPremium\":\"8094881.713\"}",
+        "profitability": "{\"symbol\":\"HLI\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"5.5089188444555\",\"ROE\":9.9,\"ROA\":1.43,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.2588299326917274}",
+        "lock_in_period": "{\"symbol\":\"HLI\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "HLI",
+          "full_name": "Himalayan Life Insurance Limited"
+        }
+      },
+      {
+        "id": 193,
+        "sector": "LIFEINSU",
+        "symbol": "SJLIC",
+        "realtive_value": "{\"symbol\":\"SJLIC\",\"PE_ratio\":\"91.083582595918\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"2.9912838387149\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"2.5091426249492\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.010978926953679352,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"SJLIC\",\"LTP\":\"494\",\"market_cap\":22455126174,\"paid_up\":4545572100,\"total_float\":49,\"size\":\"High-cap\",\"asset_per_share\":885.2251186819807,\"book_value_per_share\":\"165.14648112171\",\"earning_per_share\":\"5.4235899151176\",\"sales_per_share\":\"196.88\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":1443821370,\"5_Yr_Avg._Dividend\":\"-\",\"mutual_fund_holding\":\"1.3%\",\"one_week_float_turnover\":0.9646660722142036,\"payout_ratio\":0,\"52_week_high_low\":\"411-637.7\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SJLIC\",\"alpha\":\"-0.1387304121473\",\"sharpe_ratio\":\"-0.37556838802222\",\"correlation_1_year\":\"0.72062864668838\",\"correlation_3_year\":\"-\",\"RSI_14\":\"46.497781995758\",\"MACD\":\"1\",\"SMA_20\":\"1\",\"SMA_50\":\"0\",\"SMA_200\":\"0\",\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.48911798396334\",\"MFI_14\":\"53.69984897538\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.3661226290251433,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":7.079646017699099,\"r_volume\":100.67794705167113}",
+        "risk": "{\"symbol\":\"SJLIC\",\"three_month_beta\":\"1.5807935512976\",\"one_year_beta\":\"1.4303629715743\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"4.3602420877234\",\"EPS_trend\":\"-0.99614816022828\",\"ROE_trend\":\"-0.0059919892759856\",\"altman_z_score\":null,\"current_ratio\":\"0.18619353388531\",\"equity_ratio\":0.1865587381767846}",
+        "health": "{\"symbol\":\"SJLIC\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"SJLIC\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"SJLIC\",\"TotalAssets\":\"40238546.017\",\"NetProfit\":\"236630.886\",\"GrossPremium\":\"4283513.459\"}",
+        "profitability": "{\"symbol\":\"SJLIC\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"2.7547693595681\",\"ROE\":3.28,\"ROA\":0.69,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.24976863361347773}",
+        "lock_in_period": "{\"symbol\":\"SJLIC\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SJLIC",
+          "full_name": "Suryajyoti Life Insurance Company Limited"
+        }
+      },
+      {
+        "id": 194,
+        "sector": "LIFEINSU",
+        "symbol": "RNLI",
+        "realtive_value": "{\"symbol\":\"RNLI\",\"PE_ratio\":\"43.99350505272\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"2.8272335048004\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"5.2581032412965\",\"dividend_yield\":3.6529680365297,\"earning_yield(EPS_to_LTP)\":0.022730628050700686,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"RNLI\",\"LTP\":\"438\",\"market_cap\":20323200000,\"paid_up\":4640000000,\"total_float\":30,\"size\":\"High-cap\",\"asset_per_share\":348.13791715517243,\"book_value_per_share\":\"154.92176336207\",\"earning_per_share\":\"9.9560150862069\",\"sales_per_share\":\"83.30\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":2988974157,\"5_Yr_Avg._Dividend\":16.84,\"mutual_fund_holding\":\"0.75%\",\"one_week_float_turnover\":0.964712643678161,\"payout_ratio\":160.70686777249,\"52_week_high_low\":\"393-595\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.22277227722772278}",
+        "technical": "{\"symbol\":\"RNLI\",\"alpha\":\"-\",\"sharpe_ratio\":\"-\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"45.37003103919\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":null,\"SMA_5_VS_20\":\"0\",\"stochastic_14\":\"0.22222222222222\",\"MFI_14\":\"47.163145284975\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.22277227722772278,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":0,\"r_volume\":43.29391594798715}",
+        "risk": "{\"symbol\":\"RNLI\",\"three_month_beta\":\"-\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"1.247185351407\",\"EPS_trend\":\"na\",\"ROE_trend\":\"na\",\"altman_z_score\":null,\"current_ratio\":\"0.093086242202529\",\"equity_ratio\":0.44500112102446027}",
+        "health": "{\"symbol\":\"RNLI\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"RNLI\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"RNLI\",\"TotalAssets\":\"16153599.356\",\"NetProfit\":\"230979.547\",\"GrossPremium\":\"1932531.046\"}",
+        "profitability": "{\"symbol\":\"RNLI\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"11.951998903009\",\"ROE\":6.43,\"ROA\":2.86,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.23927298887769405}",
+        "lock_in_period": "{\"symbol\":\"RNLI\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "RNLI",
+          "full_name": "Reliable Nepal Life Insurance Limited"
+        }
+      },
+      {
+        "id": 195,
+        "sector": "LIFEINSU",
+        "symbol": "SNLI",
+        "realtive_value": "{\"symbol\":\"SNLI\",\"PE_ratio\":\"29.378346514309\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"3.2239183033573\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"5.421686746988\",\"dividend_yield\":3.9800995024876005,\"earning_yield(EPS_to_LTP)\":0.03403867537313433,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"SNLI\",\"LTP\":\"603\",\"market_cap\":19296000000,\"paid_up\":3200000000,\"total_float\":30,\"size\":\"High-cap\",\"asset_per_share\":399.80978178125,\"book_value_per_share\":\"187.0394790625\",\"earning_per_share\":\"20.52532125\",\"sales_per_share\":\"111.22\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":2342690715,\"5_Yr_Avg._Dividend\":25.0526,\"mutual_fund_holding\":\"1.53%\",\"one_week_float_turnover\":2.0051770833333333,\"payout_ratio\":116.92874234551,\"52_week_high_low\":\"401.1-635.1\",\"52_week_high_percent\":0.8628205128205128,\"52_week_low_percent\":\"-\"}",
+        "technical": "{\"symbol\":\"SNLI\",\"alpha\":\"-\",\"sharpe_ratio\":\"-\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"50.110235289632\",\"MACD\":\"0\",\"SMA_20\":\"0\",\"SMA_50\":\"1\",\"SMA_200\":null,\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.38053097345133\",\"MFI_14\":\"68.800301217554\",\"trend_info\":\"MEAN REVERTING\",\"52_wks_level\":0.8628205128205128,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":0,\"r_volume\":37.09614835746753}",
+        "risk": "{\"symbol\":\"SNLI\",\"three_month_beta\":\"-\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"1.13756894469\",\"EPS_trend\":\"na\",\"ROE_trend\":\"na\",\"altman_z_score\":null,\"current_ratio\":\"0.70173377715637\",\"equity_ratio\":0.4678211676949061}",
+        "health": "{\"symbol\":\"SNLI\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"SNLI\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"SNLI\",\"TotalAssets\":\"12793913.017\",\"NetProfit\":\"328405.138\",\"GrossPremium\":\"1779564.449\"}",
+        "profitability": "{\"symbol\":\"SNLI\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"18.454703515555\",\"ROE\":10.97,\"ROA\":5.13,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.2781822882832142}",
+        "lock_in_period": "{\"symbol\":\"SNLI\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "SNLI",
+          "full_name": "Sun Nepal Life Insurance Company Limited"
+        }
+      },
+      {
+        "id": 196,
+        "sector": "LIFEINSU",
+        "symbol": "PMLI",
+        "realtive_value": "{\"symbol\":\"PMLI\",\"PE_ratio\":\"55.402787945795\",\"EV_to_EBIT\":\"-\",\"PB_ratio\":\"4.3839614826196\",\"PEG_ratio\":null,\"price_to_cash_flow\":\"0\",\"price_to_sales\":\"4.8302555493378\",\"dividend_yield\":0,\"earning_yield(EPS_to_LTP)\":0.01804963318774474,\"earning_yield(EBIT_to_EV)\":\"-\",\"PE_ratio_5_yrs\":\"-\"}",
+        "general": "{\"symbol\":\"PMLI\",\"LTP\":\"517.9\",\"market_cap\":22248984000,\"paid_up\":4296000000,\"total_float\":15,\"size\":\"High-cap\",\"asset_per_share\":0,\"book_value_per_share\":\"118.13516201117\",\"earning_per_share\":\"9.347905027933\",\"sales_per_share\":\"107.22\",\"cash_flow_per_share\":\"0\",\"expected_DPS\":\"-\",\"reserve_surplus\":687965694,\"5_Yr_Avg._Dividend\":\"-\",\"mutual_fund_holding\":\"0.04%\",\"one_week_float_turnover\":0,\"payout_ratio\":0,\"52_week_high_low\":\"491.5-623.7\",\"52_week_high_percent\":\"-\",\"52_week_low_percent\":0.19969742813918281}",
+        "technical": "{\"symbol\":\"PMLI\",\"alpha\":\"-\",\"sharpe_ratio\":\"-\",\"correlation_1_year\":\"-\",\"correlation_3_year\":\"-\",\"RSI_14\":\"46.7840844446\",\"MACD\":\"1\",\"SMA_20\":\"0\",\"SMA_50\":\"0\",\"SMA_200\":null,\"SMA_5_VS_20\":\"1\",\"stochastic_14\":\"0.36710526315789\",\"MFI_14\":\"62.742603389621\",\"trend_info\":\"TRENDING\",\"52_wks_level\":0.19969742813918281,\"volume_trend\":\"DOWN\",\"break_out\":\"3\",\"relative_strength\":0,\"r_volume\":80.5118042980628}",
+        "risk": "{\"symbol\":\"PMLI\",\"three_month_beta\":\"-\",\"one_year_beta\":\"-\",\"three_year_beta\":\"-\",\"debt_to_common_equity\":\"1.733186631599\",\"EPS_trend\":\"na\",\"ROE_trend\":\"na\",\"altman_z_score\":null,\"current_ratio\":\"0.004340643308826\",\"equity_ratio\":\"-\"}",
+        "health": "{\"symbol\":\"PMLI\",\"piotroski_f_score\":\"0\",\"g_score\":\"0\",\"magic_formula_rank\":null}",
+        "regulator_others": "{\"symbol\":\"PMLI\",\"NumberOfExistingPolicies\":null,\"NuumberOfInsuranceAgent\":null,\"NumberOfEmployees\":null,\"NumberOfBranches\":null,\"SolvencyMargin\":null,\"ReturnOnInvestments\":null}",
+        "market_share": "{\"symbol\":\"PMLI\",\"TotalAssets\":\"14636261.143\",\"NetProfit\":\"176423.698\",\"GrossPremium\":\"2038262.378\"}",
+        "profitability": "{\"symbol\":\"PMLI\",\"gross_profit_margin\":\"0\",\"operating_margin\":0,\"pretax_profit_margin\":\"0\",\"net_margin\":\"0\",\"net_margin_(quarterly)(TTM)\":\"8.7184340868616\",\"ROE\":7.91,\"ROA\":2.9,\"ROIC\":\"0\",\"ROCE\":0,\"asset_turnover\":0.33206823498582705}",
+        "lock_in_period": "{\"symbol\":\"PMLI\",\"end_of_lock_in_period\":null,\"days_remaining\":null}",
+        "stockinfo": {
+          "symbol": "PMLI",
+          "full_name": "Prabhu Mahalaxmi Life Insurance Ltd"
+        }
+      }
+    ]
+  }
+}

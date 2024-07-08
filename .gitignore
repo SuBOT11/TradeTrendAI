@@ -1,0 +1,69 @@
+# Node.js / React
+node_modules/
+build/
+dist/
+.cache/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pypirc
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+.eggs/
+.eggs
+*.egg
+*.egg-info
+.installed.cfg
+*.manifest
+*.spec
+
+# macOS
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+# Python virtual environments
+.venv/
+ENV/
+env/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.coverage
+
